@@ -1,14 +1,19 @@
-# شريط تفضيلات الإتاحة — V5
+# مهارة شريط تفضيلات الإتاحة للمشاريع العربية
 
-الحزمة تضم مهارة Codex، مكوّن React/Tailwind، CSS، اختبارات Vitest، والتقرير الكامل.
+## استخدمها مع الذكاء الاصطناعي
 
-- [دليل تركيب المكوّن بالعربية](https://github.com/haithamnaddaf/arabic-accessibility-toolbar/blob/main/docs/INSTALLATION.md).
-- [الحدود المعلنة](https://github.com/haithamnaddaf/arabic-accessibility-toolbar/blob/main/docs/KNOWN_LIMITATIONS.md).
-- [المستودع العام وأمثلة الدمج](https://github.com/haithamnaddaf/arabic-accessibility-toolbar).
-- داخل الحزمة: `SKILL.md`، و`references/validation-v5.html` و`references/validation-v5.json`.
+هذه الحزمة تتضمن SKILL.md ومراجع وأصولًا محلية لتوجيه أداة الذكاء الاصطناعي. افحص تقنية المشروع أولًا؛ لا تفرض React أو Tailwind عليه. المرجع الوحيد الجاهز المختبر هو React V5، ولا توجد هنا نسخ أخرى مختبرة.
 
-انسخ ملفي assets/AccessibilityToolbar.tsx وassets/accessibility.css إلى مشروع React قائم، واضبط ألوان Tailwind ومسار content، واعرض المكوّن مرة واحدة. أو استخرج هذا المجلد إلى مجلد مهارات Codex الشخصي لديك.
+1. استخرج هذا المجلد واحتفظ بمجلدي assets وreferences.
+2. أرفقه بأداة تقرأ ملفات المشروع، أو أضفه لمساحة عملها وفق الآلية التي تدعمها. لا يوجد استيراد تلقائي مضمون لكل أداة.
+3. أرسل: «استخدم SKILL.md وreferences/framework-adaptation.md لإضافة شريط تفضيلات إتاحة عربي إلى هذا المشروع. افحص الإطار وCSS وطريقة العرض، وكيّف التنفيذ مع تقنيته دون فرض React/Tailwind. نفّذ واختبر محليًا وسلّم نتائج نجاح وفشل وغير مختبر، دون نشر أو ادعاء مطابقة WCAG كاملة».
 
-ADHD هنا دليل قراءة وتقليل حركة، وليس علاجًا. أغلق اللوحة بعد تفعيله لترى الدليل. النتائج محدودة بالمختبر: 35 نجاحًا و4 غير مكتملة؛ لا شهادة مطابقة WCAG.
+## ملفات الحزمة
 
-الترخيص [MIT](LICENSE). شفرة المكوّن وCSS واختباراته مطابقة لنسخة V5 المراجعة؛ أُضيف التوثيق العام والترخيص، وحُذفت بيانات مسارات الاختبار ومعرّفات Library الداخلية من التقرير المنشور.
+- [SKILL.md](SKILL.md): فحص المشروع ومتطلبات السلوك ومسارات التنفيذ.
+- [خطة التكييف والقبول](references/framework-adaptation.md).
+- [دليل المرجع React](references/react-reference.md).
+- assets: مرجع React V5 وCSS والاختبارات المرفقة؛ مكتبات الأطر وnode_modules غير مرفقة.
+- [تقرير المرجع HTML](references/validation-v5.html) و[JSON](references/validation-v5.json).
+
+[المستودع العام والتوثيق العربي](https://github.com/haithamnaddaf/arabic-accessibility-toolbar). ADHD دليل قراءة وتقليل حركة وليس علاجًا. نتائج المرجع 35 نجاحًا و4 غير مكتملة؛ لا تنتقل هذه النتائج إلى تكييف جديد ولا تمنح شهادة WCAG. الترخيص [MIT](LICENSE).

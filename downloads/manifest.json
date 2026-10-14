@@ -1,8 +1,8 @@
 {
   "version": "v5",
-  "package_sha256": "8c5498ae0157a02c7e307f07e1f476b46da86f153b943f19872da1fa19ca7af7",
-  "package_size_bytes": 42348,
-  "package_file_count": 10,
+  "package_sha256": "c36cac4575f64af88ebe63969f697ce81420c0989b1759b72478375df5443635",
+  "package_size_bytes": 48071,
+  "package_file_count": 12,
   "source_files": {
     "AccessibilityToolbar.tsx": "a0a1c2088bfc74185b76c56630f39af1dffbfdfec84f203a62379f56e6013392",
     "AccessibilityToolbar.interaction.test.tsx": "718abb84e01fd13c37a5e99b2b755dc492f85fc25be9b9b8206cc002aa6e6f85",
@@ -11,5 +11,8 @@
   },
   "implementation_unchanged_from_reviewed_v5": true,
   "public_documentation_sanitized": true,
-  "documentation_language": "ar"
+  "documentation_language": "ar",
+  "documentation_revision": "framework-adaptation",
+  "tested_implementation": "React V5 with Tailwind; other adaptations untested",
+  "skill_scope": "Detect project technology and adapt without requiring React or Tailwind"
 }

@@ -1,5 +1,7 @@
 # التركيب والتخصيص
 
+هذا الدليل يخص **مرجع React المختبر**. لمشروع غير React ابدأ من [المهارة](../accessibility-toolbar/SKILL.md) و[خطة التكييف](../accessibility-toolbar/references/framework-adaptation.md)، واستخدم تقنية مشروعك بدل فرض React أو Tailwind.
+
 ## المتطلبات والنطاق
 
 React 18 أو أحدث مع إصدار مطابق من `react-dom`، وTailwind CSS، و`lucide-react`. الاختبار الموثق استخدم React/ReactDOM 18.3.1 وTailwind 3.4.17 وLucide 0.468.0. لم يُختبر Tailwind 4 أو جميع أطر SSR في هذه المراجعة.
