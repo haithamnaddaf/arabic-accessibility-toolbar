@@ -1,0 +1,31 @@
+{
+  "archive_sha256": "b65ebdcb017af992ffd42c669b04148d21d6b67d5ab4ecf9e598a10e6e46198b",
+  "expected_sha256": "b65ebdcb017af992ffd42c669b04148d21d6b67d5ab4ecf9e598a10e6e46198b",
+  "files": [
+    {
+      "path": "accessibility-toolbar/SKILL.md",
+      "unchanged": true,
+      "sha256": "adb04536b4a1e4530b4f86dbb44f2f9884c3a93fc3577646a815088ff961ae01"
+    },
+    {
+      "path": "accessibility-toolbar/assets/AccessibilityToolbar.test.ts",
+      "unchanged": true,
+      "sha256": "382fda79152fc53c5fb44b54ca943d4a5f2b3862dcfafb0053cea7e34bee7b55"
+    },
+    {
+      "path": "accessibility-toolbar/assets/accessibility.css",
+      "unchanged": true,
+      "sha256": "a44b0dc27c073bef60c1d2cdf29995fbc013122494808e48ae06e3a19d795621"
+    },
+    {
+      "path": "accessibility-toolbar/assets/AccessibilityToolbar.tsx",
+      "unchanged": true,
+      "sha256": "abc982145fec93e387a47dc1a887af21020ef084a2c44f648772305172dfb19f"
+    },
+    {
+      "path": "accessibility-toolbar/references/best-practices.md",
+      "unchanged": true,
+      "sha256": "a41d71e6e4cdafc8ef35ee5bfcfa5ae246c01a529b88c485308346a81aef9cf2"
+    }
+  ]
+}

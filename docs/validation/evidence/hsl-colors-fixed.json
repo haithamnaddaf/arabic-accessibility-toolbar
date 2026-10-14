@@ -1,0 +1,62 @@
+{
+  "bodyFilter": "none",
+  "focusOutline": "rgb(17, 71, 187) dashed 3px",
+  "htmlFilter": "none",
+  "primary": "hsl(221 83% 40%)",
+  "speechButtons": [
+    {
+      "bg": "rgb(17, 71, 187)",
+      "color": "rgb(255, 255, 255)",
+      "height": 44,
+      "text": "تشغيل"
+    },
+    {
+      "bg": "rgb(255, 255, 255)",
+      "color": "rgb(15, 23, 41)",
+      "height": 44,
+      "text": "إيقاف"
+    }
+  ],
+  "stepButtons": [
+    {
+      "bg": "rgb(255, 255, 255)",
+      "color": "rgb(15, 23, 41)",
+      "height": 44
+    },
+    {
+      "bg": "rgb(255, 255, 255)",
+      "color": "rgb(15, 23, 41)",
+      "height": 44
+    },
+    {
+      "bg": "rgb(255, 255, 255)",
+      "color": "rgb(15, 23, 41)",
+      "height": 44
+    },
+    {
+      "bg": "rgb(255, 255, 255)",
+      "color": "rgb(15, 23, 41)",
+      "height": 44
+    },
+    {
+      "bg": "rgb(255, 255, 255)",
+      "color": "rgb(15, 23, 41)",
+      "height": 44
+    },
+    {
+      "bg": "rgb(255, 255, 255)",
+      "color": "rgb(15, 23, 41)",
+      "height": 44
+    },
+    {
+      "bg": "rgb(255, 255, 255)",
+      "color": "rgb(15, 23, 41)",
+      "height": 44
+    },
+    {
+      "bg": "rgb(255, 255, 255)",
+      "color": "rgb(15, 23, 41)",
+      "height": 44
+    }
+  ]
+}

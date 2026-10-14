@@ -1,0 +1,15 @@
+{
+  "version": "v5",
+  "package_sha256": "8c5498ae0157a02c7e307f07e1f476b46da86f153b943f19872da1fa19ca7af7",
+  "package_size_bytes": 42348,
+  "package_file_count": 10,
+  "source_files": {
+    "AccessibilityToolbar.tsx": "a0a1c2088bfc74185b76c56630f39af1dffbfdfec84f203a62379f56e6013392",
+    "AccessibilityToolbar.interaction.test.tsx": "718abb84e01fd13c37a5e99b2b755dc492f85fc25be9b9b8206cc002aa6e6f85",
+    "accessibility.css": "3641793e95c1695fa76bb9a3a0c017d1dfab5da7dfd52ec1116e92f4141f17a4",
+    "AccessibilityToolbar.test.ts": "37622b56cbc5406fe7ca3a2e7481cdbe4feba1ef158969bbf0d2e62d901f7501"
+  },
+  "implementation_unchanged_from_reviewed_v5": true,
+  "public_documentation_sanitized": true,
+  "documentation_language": "ar"
+}

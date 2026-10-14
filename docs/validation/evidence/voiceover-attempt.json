@@ -1,0 +1,6 @@
+{
+  "attempt": "VoiceOver app launched during real-reader trial; UI attachment timed out (-10005 timeoutReached). Announcements not verifiable.",
+  "after": "System Settings Accessibility > VoiceOver: switch off; read-only voiceOverOnOffKey=0.",
+  "status": "غير مختبر",
+  "restored": true
+}

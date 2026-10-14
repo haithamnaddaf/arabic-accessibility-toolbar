@@ -1,0 +1,12 @@
+{
+  "before": {
+    "animation": "2s",
+    "cls": "full-tokens",
+    "mq": true,
+    "transition": "2s"
+  },
+  "restored": {
+    "mq": false
+  },
+  "scope": "Native OS preference affected reader scroll; site animation still 2s with toolbar option off. Check documented expectation."
+}

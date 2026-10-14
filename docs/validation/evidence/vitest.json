@@ -1,0 +1,214 @@
+{
+  "numTotalTestSuites": 5,
+  "numPassedTestSuites": 5,
+  "numFailedTestSuites": 0,
+  "numPendingTestSuites": 0,
+  "numTotalTests": 15,
+  "numPassedTests": 15,
+  "numFailedTests": 0,
+  "numPendingTests": 0,
+  "numTodoTests": 0,
+  "snapshot": {
+    "added": 0,
+    "failure": false,
+    "filesAdded": 0,
+    "filesRemoved": 0,
+    "filesRemovedList": [],
+    "filesUnmatched": 0,
+    "filesUpdated": 0,
+    "matched": 0,
+    "total": 0,
+    "unchecked": 0,
+    "uncheckedKeysByFile": [],
+    "unmatched": 0,
+    "updated": 0,
+    "didUpdate": false
+  },
+  "startTime": 1792000158382,
+  "success": true,
+  "testResults": [
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [
+            "dialog and speech lifecycle"
+          ],
+          "fullName": "dialog and speech lifecycle isolates background siblings, guards focus and restores their attributes",
+          "status": "passed",
+          "title": "isolates background siblings, guards focus and restores their attributes",
+          "duration": 86.53395899999998,
+          "failureMessages": [],
+          "meta": {}
+        },
+        {
+          "ancestorTitles": [
+            "dialog and speech lifecycle"
+          ],
+          "fullName": "dialog and speech lifecycle does not restart the same selection on Tab and keeps Stop usable",
+          "status": "passed",
+          "title": "does not restart the same selection on Tab and keeps Stop usable",
+          "duration": 498.53200000000004,
+          "failureMessages": [],
+          "meta": {}
+        },
+        {
+          "ancestorTitles": [
+            "dialog and speech lifecycle"
+          ],
+          "fullName": "dialog and speech lifecycle reset cancels queued speech and clears page highlights",
+          "status": "passed",
+          "title": "reset cancels queued speech and clears page highlights",
+          "duration": 24.410916000000043,
+          "failureMessages": [],
+          "meta": {}
+        },
+        {
+          "ancestorTitles": [
+            "dialog and speech lifecycle"
+          ],
+          "fullName": "dialog and speech lifecycle the ADHD preset persists its guide and reduced motion",
+          "status": "passed",
+          "title": "the ADHD preset persists its guide and reduced motion",
+          "duration": 37.40804099999991,
+          "failureMessages": [],
+          "meta": {}
+        }
+      ],
+      "startTime": 1792000159300,
+      "endTime": 1792000159947.408,
+      "status": "passed",
+      "message": "",
+      "name": "local-workspace/revision-v5/harness/tests/interaction.test.ts"
+    },
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [
+            "normalizeSettings"
+          ],
+          "fullName": "normalizeSettings turning on dark mode switches off high contrast",
+          "status": "passed",
+          "title": "turning on dark mode switches off high contrast",
+          "duration": 0.7836670000000368,
+          "failureMessages": [],
+          "meta": {}
+        },
+        {
+          "ancestorTitles": [
+            "normalizeSettings"
+          ],
+          "fullName": "normalizeSettings choosing a colour filter switches off grayscale",
+          "status": "passed",
+          "title": "choosing a colour filter switches off grayscale",
+          "duration": 0.17908399999998892,
+          "failureMessages": [],
+          "meta": {}
+        },
+        {
+          "ancestorTitles": [
+            "normalizeSettings"
+          ],
+          "fullName": "normalizeSettings turning on grayscale clears the colour filter",
+          "status": "passed",
+          "title": "turning on grayscale clears the colour filter",
+          "duration": 0.12599999999997635,
+          "failureMessages": [],
+          "meta": {}
+        },
+        {
+          "ancestorTitles": [
+            "normalizeSettings"
+          ],
+          "fullName": "normalizeSettings line height never goes below 1.5 when set",
+          "status": "passed",
+          "title": "line height never goes below 1.5 when set",
+          "duration": 0.15395799999998871,
+          "failureMessages": [],
+          "meta": {}
+        },
+        {
+          "ancestorTitles": [
+            "normalizeSettings"
+          ],
+          "fullName": "normalizeSettings changing font size keeps other options",
+          "status": "passed",
+          "title": "changing font size keeps other options",
+          "duration": 0.1414159999999356,
+          "failureMessages": [],
+          "meta": {}
+        },
+        {
+          "ancestorTitles": [
+            "restoration and preset invariants"
+          ],
+          "fullName": "restoration and preset invariants keeps a stored desktop position inside a 320px screen",
+          "status": "passed",
+          "title": "keeps a stored desktop position inside a 320px screen",
+          "duration": 0.46875,
+          "failureMessages": [],
+          "meta": {}
+        },
+        {
+          "ancestorTitles": [
+            "restoration and preset invariants"
+          ],
+          "fullName": "restoration and preset invariants uses the real enlarged launcher size",
+          "status": "passed",
+          "title": "uses the real enlarged launcher size",
+          "duration": 0.11333399999989524,
+          "failureMessages": [],
+          "meta": {}
+        },
+        {
+          "ancestorTitles": [
+            "restoration and preset invariants"
+          ],
+          "fullName": "restoration and preset invariants handles malformed coordinates without losing the launcher",
+          "status": "passed",
+          "title": "handles malformed coordinates without losing the launcher",
+          "duration": 0.09454199999993307,
+          "failureMessages": [],
+          "meta": {}
+        },
+        {
+          "ancestorTitles": [
+            "restoration and preset invariants"
+          ],
+          "fullName": "restoration and preset invariants restoring an explicit colour choice clears incompatible modes",
+          "status": "passed",
+          "title": "restoring an explicit colour choice clears incompatible modes",
+          "duration": 0.1370000000000573,
+          "failureMessages": [],
+          "meta": {}
+        },
+        {
+          "ancestorTitles": [
+            "restoration and preset invariants"
+          ],
+          "fullName": "restoration and preset invariants rejects out-of-range stored scale and spacing",
+          "status": "passed",
+          "title": "rejects out-of-range stored scale and spacing",
+          "duration": 0.14145799999994324,
+          "failureMessages": [],
+          "meta": {}
+        },
+        {
+          "ancestorTitles": [
+            "restoration and preset invariants"
+          ],
+          "fullName": "restoration and preset invariants retains the ADHD preset id with its actual settings",
+          "status": "passed",
+          "title": "retains the ADHD preset id with its actual settings",
+          "duration": 0.11704199999996945,
+          "failureMessages": [],
+          "meta": {}
+        }
+      ],
+      "startTime": 1792000158983,
+      "endTime": 1792000158986.1414,
+      "status": "passed",
+      "message": "",
+      "name": "local-workspace/revision-v5/harness/tests/original.test.ts"
+    }
+  ]
+}

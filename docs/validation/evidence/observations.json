@@ -1,0 +1,1623 @@
+[
+  {
+    "label": "Enter-open-inert",
+    "focus": "إغلاق أدوات سهولة الوصول",
+    "guide": null,
+    "inside": true,
+    "launcher": {
+      "bg": "rgb(255, 255, 255)",
+      "clientWidth": 56,
+      "color": "rgb(15, 23, 41)",
+      "height": 56,
+      "outline": "rgb(15, 23, 41) none 3px",
+      "scrollWidth": 56,
+      "width": 56,
+      "x": 1208,
+      "y": 96,
+      "zoom": "1"
+    },
+    "panel": {
+      "bg": "rgb(255, 255, 255)",
+      "clientWidth": 415,
+      "color": "rgb(15, 23, 41)",
+      "height": 800,
+      "outline": "rgb(15, 23, 41) none 3px",
+      "scrollWidth": 415,
+      "width": 416,
+      "x": 864,
+      "y": 0,
+      "zoom": "1"
+    },
+    "status": "{\n  \"ua\": \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36\",\n  \"viewport\": {\n    \"width\": 1280,\n    \"height\": 800,\n    \"dpr\": 1\n  },\n  \"tokens\": \"HSL-components\",\n  \"reduceMotionSystem\": false,\n  \"settings\": null,\n  \"position\": null,\n  \"focus\": \"إغلاق أدوات سهولة الوصول\",\n  \"media\": [\n    {\n      \"id\": \"demo-audio\",\n      \"muted\": false\n    },\n    {\n      \"id\": \"demo-video\",\n      \"muted\": false\n    }\n  ],\n  \"speech\": {\n    \"speaking\": false,\n    \"pending\": false,\n    \"paused\": false,\n    \"arabicVoices\": [\n      {\n        \"name\": \"Majed\",\n        \"lang\": \"ar-001\",\n        \"local\": true\n      }\n    ]\n  }\n}",
+    "viewport": {
+      "dpr": 1,
+      "height": 800,
+      "width": 1280
+    }
+  },
+  {
+    "label": "ShiftTab-wrap",
+    "focus": "إخفاء الأداة",
+    "guide": null,
+    "inside": true,
+    "launcher": {
+      "bg": "rgb(255, 255, 255)",
+      "clientWidth": 56,
+      "color": "rgb(15, 23, 41)",
+      "height": 56,
+      "outline": "rgb(15, 23, 41) none 3px",
+      "scrollWidth": 56,
+      "width": 56,
+      "x": 1208,
+      "y": 96,
+      "zoom": "1"
+    },
+    "panel": {
+      "bg": "rgb(255, 255, 255)",
+      "clientWidth": 415,
+      "color": "rgb(15, 23, 41)",
+      "height": 800,
+      "outline": "rgb(15, 23, 41) none 3px",
+      "scrollWidth": 415,
+      "width": 416,
+      "x": 864,
+      "y": 0,
+      "zoom": "1"
+    },
+    "status": "{\n  \"ua\": \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36\",\n  \"viewport\": {\n    \"width\": 1280,\n    \"height\": 800,\n    \"dpr\": 1\n  },\n  \"tokens\": \"HSL-components\",\n  \"reduceMotionSystem\": false,\n  \"settings\": null,\n  \"position\": null,\n  \"focus\": \"إغلاق أدوات سهولة الوصول\",\n  \"media\": [\n    {\n      \"id\": \"demo-audio\",\n      \"muted\": false\n    },\n    {\n      \"id\": \"demo-video\",\n      \"muted\": false\n    }\n  ],\n  \"speech\": {\n    \"speaking\": false,\n    \"pending\": false,\n    \"paused\": false,\n    \"arabicVoices\": [\n      {\n        \"name\": \"Majed\",\n        \"lang\": \"ar-001\",\n        \"local\": true\n      }\n    ]\n  }\n}",
+    "viewport": {
+      "dpr": 1,
+      "height": 800,
+      "width": 1280
+    }
+  },
+  {
+    "label": "Tab-wrap",
+    "focus": "إغلاق أدوات سهولة الوصول",
+    "guide": null,
+    "inside": true,
+    "launcher": {
+      "bg": "rgb(255, 255, 255)",
+      "clientWidth": 56,
+      "color": "rgb(15, 23, 41)",
+      "height": 56,
+      "outline": "rgb(15, 23, 41) none 3px",
+      "scrollWidth": 56,
+      "width": 56,
+      "x": 1208,
+      "y": 96,
+      "zoom": "1"
+    },
+    "panel": {
+      "bg": "rgb(255, 255, 255)",
+      "clientWidth": 415,
+      "color": "rgb(15, 23, 41)",
+      "height": 800,
+      "outline": "rgb(15, 23, 41) none 3px",
+      "scrollWidth": 415,
+      "width": 416,
+      "x": 864,
+      "y": 0,
+      "zoom": "1"
+    },
+    "status": "{\n  \"ua\": \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36\",\n  \"viewport\": {\n    \"width\": 1280,\n    \"height\": 800,\n    \"dpr\": 1\n  },\n  \"tokens\": \"HSL-components\",\n  \"reduceMotionSystem\": false,\n  \"settings\": null,\n  \"position\": null,\n  \"focus\": \"إغلاق أدوات سهولة الوصول\",\n  \"media\": [\n    {\n      \"id\": \"demo-audio\",\n      \"muted\": false\n    },\n    {\n      \"id\": \"demo-video\",\n      \"muted\": false\n    }\n  ],\n  \"speech\": {\n    \"speaking\": false,\n    \"pending\": false,\n    \"paused\": false,\n    \"arabicVoices\": [\n      {\n        \"name\": \"Majed\",\n        \"lang\": \"ar-001\",\n        \"local\": true\n      }\n    ]\n  }\n}",
+    "viewport": {
+      "dpr": 1,
+      "height": 800,
+      "width": 1280
+    }
+  },
+  {
+    "label": "Escape-focus",
+    "focus": "أدوات سهولة الوصول",
+    "guide": null,
+    "inside": false,
+    "launcher": {
+      "bg": "rgb(255, 255, 255)",
+      "clientWidth": 56,
+      "color": "rgb(15, 23, 41)",
+      "height": 56,
+      "outline": "rgb(17, 71, 187) solid 4px",
+      "scrollWidth": 56,
+      "width": 56,
+      "x": 1208,
+      "y": 96,
+      "zoom": "1"
+    },
+    "panel": null,
+    "status": "{\n  \"ua\": \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36\",\n  \"viewport\": {\n    \"width\": 1280,\n    \"height\": 800,\n    \"dpr\": 1\n  },\n  \"tokens\": \"HSL-components\",\n  \"reduceMotionSystem\": false,\n  \"settings\": null,\n  \"position\": null,\n  \"focus\": \"أدوات سهولة الوصول\",\n  \"media\": [\n    {\n      \"id\": \"demo-audio\",\n      \"muted\": false\n    },\n    {\n      \"id\": \"demo-video\",\n      \"muted\": false\n    }\n  ],\n  \"speech\": {\n    \"speaking\": false,\n    \"pending\": false,\n    \"paused\": false,\n    \"arabicVoices\": [\n      {\n        \"name\": \"Majed\",\n        \"lang\": \"ar-001\",\n        \"local\": true\n      }\n    ]\n  }\n}",
+    "viewport": {
+      "dpr": 1,
+      "height": 800,
+      "width": 1280
+    }
+  },
+  {
+    "label": "Space-open",
+    "focus": "إغلاق أدوات سهولة الوصول",
+    "guide": null,
+    "inside": true,
+    "launcher": {
+      "bg": "rgb(255, 255, 255)",
+      "clientWidth": 56,
+      "color": "rgb(15, 23, 41)",
+      "height": 56,
+      "outline": "rgb(15, 23, 41) none 3px",
+      "scrollWidth": 56,
+      "width": 56,
+      "x": 1208,
+      "y": 96,
+      "zoom": "1"
+    },
+    "panel": {
+      "bg": "rgb(255, 255, 255)",
+      "clientWidth": 415,
+      "color": "rgb(15, 23, 41)",
+      "height": 800,
+      "outline": "rgb(15, 23, 41) none 3px",
+      "scrollWidth": 415,
+      "width": 416,
+      "x": 864,
+      "y": 0,
+      "zoom": "1"
+    },
+    "status": "{\n  \"ua\": \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36\",\n  \"viewport\": {\n    \"width\": 1280,\n    \"height\": 800,\n    \"dpr\": 1\n  },\n  \"tokens\": \"HSL-components\",\n  \"reduceMotionSystem\": false,\n  \"settings\": null,\n  \"position\": null,\n  \"focus\": \"إغلاق أدوات سهولة الوصول\",\n  \"media\": [\n    {\n      \"id\": \"demo-audio\",\n      \"muted\": false\n    },\n    {\n      \"id\": \"demo-video\",\n      \"muted\": false\n    }\n  ],\n  \"speech\": {\n    \"speaking\": false,\n    \"pending\": false,\n    \"paused\": false,\n    \"arabicVoices\": [\n      {\n        \"name\": \"Majed\",\n        \"lang\": \"ar-001\",\n        \"local\": true\n      }\n    ]\n  }\n}",
+    "viewport": {
+      "dpr": 1,
+      "height": 800,
+      "width": 1280
+    }
+  },
+  {
+    "label": "ADHD-guide-visible",
+    "focus": "أدوات سهولة الوصول",
+    "guide": {
+      "bg": "rgb(17, 71, 187)",
+      "clientWidth": 1280,
+      "color": "rgb(15, 23, 41)",
+      "height": 4,
+      "outline": "rgb(15, 23, 41) none 3px",
+      "scrollWidth": 1280,
+      "width": 1280,
+      "x": 0,
+      "y": 400,
+      "zoom": "1"
+    },
+    "inside": false,
+    "launcher": {
+      "bg": "rgb(255, 255, 255)",
+      "clientWidth": 56,
+      "color": "rgb(15, 23, 41)",
+      "height": 56,
+      "outline": "rgb(15, 23, 41) none 3px",
+      "scrollWidth": 56,
+      "width": 56,
+      "x": 1208,
+      "y": 96,
+      "zoom": "1"
+    },
+    "panel": null,
+    "status": "{\n  \"ua\": \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36\",\n  \"viewport\": {\n    \"width\": 1280,\n    \"height\": 800,\n    \"dpr\": 1\n  },\n  \"tokens\": \"HSL-components\",\n  \"reduceMotionSystem\": false,\n  \"settings\": \"{\\\"fontScale\\\":100,\\\"letterSpacing\\\":0,\\\"wordSpacing\\\":0,\\\"lineHeight\\\":0,\\\"colorFilter\\\":\\\"none\\\",\\\"darkMode\\\":false,\\\"pageZoom\\\":100,\\\"profileId\\\":\\\"adhd\\\",\\\"highContrast\\\":false,\\\"smartContrast\\\":false,\\\"monochrome\\\":false,\\\"lowSaturation\\\":false,\\\"highSaturation\\\":false,\\\"readableFont\\\":false,\\\"dyslexiaFont\\\":false,\\\"highlightTitles\\\":false,\\\"underlineLinks\\\":false,\\\"justifyText\\\":false,\\\"bigCursor\\\":false,\\\"bigCursorLight\\\":false,\\\"readingGuide\\\":true,\\\"readingMask\\\":false,\\\"hideImages\\\":false,\\\"muteSounds\\\":false,\\\"reduceMotion\\\":true,\\\"highlightHover\\\":false,\\\"highlightFocus\\\":false,\\\"textToSpeech\\\":false}\",\n  \"position\": null,\n  \"focus\": \"أدوات سهولة الوصول\",\n  \"media\": [\n    {\n      \"id\": \"demo-audio\",\n      \"muted\": false\n    },\n    {\n      \"id\": \"demo-video\",\n      \"muted\": false\n    }\n  ],\n  \"speech\": {\n    \"speaking\": false,\n    \"pending\": false,\n    \"paused\": false,\n    \"arabicVoices\": [\n      {\n        \"name\": \"Majed\",\n        \"lang\": \"ar-001\",\n        \"local\": true\n      }\n    ]\n  }\n}",
+    "viewport": {
+      "dpr": 1,
+      "height": 800,
+      "width": 1280
+    }
+  },
+  {
+    "label": "ADHD-guide-keyboard",
+    "focus": "نموذج تجريبي",
+    "guide": {
+      "bg": "rgb(17, 71, 187)",
+      "clientWidth": 1280,
+      "color": "rgb(15, 23, 41)",
+      "height": 4,
+      "outline": "rgb(15, 23, 41) none 3px",
+      "scrollWidth": 1280,
+      "width": 1280,
+      "x": 0,
+      "y": 116.7890625,
+      "zoom": "1"
+    },
+    "inside": false,
+    "launcher": {
+      "bg": "rgb(255, 255, 255)",
+      "clientWidth": 56,
+      "color": "rgb(15, 23, 41)",
+      "height": 56,
+      "outline": "rgb(15, 23, 41) none 3px",
+      "scrollWidth": 56,
+      "width": 56,
+      "x": 1208,
+      "y": 96,
+      "zoom": "1"
+    },
+    "panel": null,
+    "status": "{\n  \"ua\": \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36\",\n  \"viewport\": {\n    \"width\": 1280,\n    \"height\": 800,\n    \"dpr\": 1\n  },\n  \"tokens\": \"HSL-components\",\n  \"reduceMotionSystem\": false,\n  \"settings\": \"{\\\"fontScale\\\":100,\\\"letterSpacing\\\":0,\\\"wordSpacing\\\":0,\\\"lineHeight\\\":0,\\\"colorFilter\\\":\\\"none\\\",\\\"darkMode\\\":false,\\\"pageZoom\\\":100,\\\"profileId\\\":\\\"adhd\\\",\\\"highContrast\\\":false,\\\"smartContrast\\\":false,\\\"monochrome\\\":false,\\\"lowSaturation\\\":false,\\\"highSaturation\\\":false,\\\"readableFont\\\":false,\\\"dyslexiaFont\\\":false,\\\"highlightTitles\\\":false,\\\"underlineLinks\\\":false,\\\"justifyText\\\":false,\\\"bigCursor\\\":false,\\\"bigCursorLight\\\":false,\\\"readingGuide\\\":true,\\\"readingMask\\\":false,\\\"hideImages\\\":false,\\\"muteSounds\\\":false,\\\"reduceMotion\\\":true,\\\"highlightHover\\\":false,\\\"highlightFocus\\\":false,\\\"textToSpeech\\\":false}\",\n  \"position\": null,\n  \"focus\": \"أدوات سهولة الوصول\",\n  \"media\": [\n    {\n      \"id\": \"demo-audio\",\n      \"muted\": false\n    },\n    {\n      \"id\": \"demo-video\",\n      \"muted\": false\n    }\n  ],\n  \"speech\": {\n    \"speaking\": false,\n    \"pending\": false,\n    \"paused\": false,\n    \"arabicVoices\": [\n      {\n        \"name\": \"Majed\",\n        \"lang\": \"ar-001\",\n        \"local\": true\n      }\n    ]\n  }\n}",
+    "viewport": {
+      "dpr": 1,
+      "height": 800,
+      "width": 1280
+    }
+  },
+  {
+    "label": "ADHD-persisted",
+    "focus": "صفحة اختبار عربية معزولةنصوص تجريبية عامة — لا بيانات شخصية ",
+    "guide": {
+      "bg": "rgb(17, 71, 187)",
+      "clientWidth": 1280,
+      "color": "rgb(15, 23, 41)",
+      "height": 4,
+      "outline": "rgb(15, 23, 41) none 3px",
+      "scrollWidth": 1280,
+      "width": 1280,
+      "x": 0,
+      "y": 400,
+      "zoom": "1"
+    },
+    "inside": false,
+    "launcher": {
+      "bg": "rgb(255, 255, 255)",
+      "clientWidth": 56,
+      "color": "rgb(15, 23, 41)",
+      "height": 56,
+      "outline": "rgb(15, 23, 41) none 3px",
+      "scrollWidth": 56,
+      "width": 56,
+      "x": 1208,
+      "y": 96,
+      "zoom": "1"
+    },
+    "panel": null,
+    "status": "{\n  \"ua\": \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36\",\n  \"viewport\": {\n    \"width\": 1280,\n    \"height\": 800,\n    \"dpr\": 1\n  },\n  \"tokens\": \"HSL-components\",\n  \"reduceMotionSystem\": false,\n  \"settings\": \"{\\\"fontScale\\\":100,\\\"letterSpacing\\\":0,\\\"wordSpacing\\\":0,\\\"lineHeight\\\":0,\\\"colorFilter\\\":\\\"none\\\",\\\"darkMode\\\":false,\\\"pageZoom\\\":100,\\\"profileId\\\":\\\"adhd\\\",\\\"highContrast\\\":false,\\\"smartContrast\\\":false,\\\"monochrome\\\":false,\\\"lowSaturation\\\":false,\\\"highSaturation\\\":false,\\\"readableFont\\\":false,\\\"dyslexiaFont\\\":false,\\\"highlightTitles\\\":false,\\\"underlineLinks\\\":false,\\\"justifyText\\\":false,\\\"bigCursor\\\":false,\\\"bigCursorLight\\\":false,\\\"readingGuide\\\":true,\\\"readingMask\\\":false,\\\"hideImages\\\":false,\\\"muteSounds\\\":false,\\\"reduceMotion\\\":true,\\\"highlightHover\\\":false,\\\"highlightFocus\\\":false,\\\"textToSpeech\\\":false}\",\n  \"position\": null,\n  \"focus\": \"صفحة اختبار عربية معزولةنصوص تجريبية عامة — لا بيانات شخصية ولا اتصال بحسابات.المحتوىنموذج\",\n  \"media\": [\n    {\n      \"id\": \"demo-audio\",\n      \"muted\": false\n    },\n    {\n      \"id\": \"demo-video\",\n      \"muted\": false\n    }\n  ],\n  \"speech\": {\n    \"speaking\": false,\n    \"pending\": false,\n    \"paused\": false,\n    \"arabicVoices\": [\n      {\n        \"name\": \"Majed\",\n        \"lang\": \"ar-001\",\n        \"local\": true\n      }\n    ]\n  }\n}",
+    "viewport": {
+      "dpr": 1,
+      "height": 800,
+      "width": 1280
+    }
+  },
+  {
+    "label": "Background-guard",
+    "focus": "زر في خلفية الحوار",
+    "guide": null,
+    "inside": false,
+    "launcher": {
+      "bg": "rgb(255, 255, 255)",
+      "clientWidth": 56,
+      "color": "rgb(15, 23, 41)",
+      "height": 56,
+      "outline": "rgb(15, 23, 41) none 3px",
+      "scrollWidth": 56,
+      "width": 56,
+      "x": 1208,
+      "y": 96,
+      "zoom": "1"
+    },
+    "panel": null,
+    "status": "{\n  \"ua\": \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36\",\n  \"viewport\": {\n    \"width\": 1280,\n    \"height\": 800,\n    \"dpr\": 1\n  },\n  \"tokens\": \"HSL-components\",\n  \"reduceMotionSystem\": false,\n  \"settings\": null,\n  \"position\": null,\n  \"focus\": \"background-button\",\n  \"media\": [\n    {\n      \"id\": \"demo-audio\",\n      \"muted\": false\n    },\n    {\n      \"id\": \"demo-video\",\n      \"muted\": false\n    }\n  ],\n  \"speech\": {\n    \"speaking\": false,\n    \"pending\": false,\n    \"paused\": false,\n    \"arabicVoices\": [\n      {\n        \"name\": \"Majed\",\n        \"lang\": \"ar-001\",\n        \"local\": true\n      }\n    ]\n  }\n}",
+    "viewport": {
+      "dpr": 1,
+      "height": 800,
+      "width": 1280
+    }
+  },
+  {
+    "label": "Open-before-guard-verified",
+    "focus": "إغلاق أدوات سهولة الوصول",
+    "guide": null,
+    "inside": true,
+    "launcher": {
+      "bg": "rgb(255, 255, 255)",
+      "clientWidth": 56,
+      "color": "rgb(15, 23, 41)",
+      "height": 56,
+      "outline": "rgb(15, 23, 41) none 3px",
+      "scrollWidth": 56,
+      "width": 56,
+      "x": 1208,
+      "y": 96,
+      "zoom": "1"
+    },
+    "panel": {
+      "bg": "rgb(255, 255, 255)",
+      "clientWidth": 415,
+      "color": "rgb(15, 23, 41)",
+      "height": 800,
+      "outline": "rgb(15, 23, 41) none 3px",
+      "scrollWidth": 415,
+      "width": 416,
+      "x": 864,
+      "y": 0,
+      "zoom": "1"
+    },
+    "status": "{\n  \"ua\": \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36\",\n  \"viewport\": {\n    \"width\": 1280,\n    \"height\": 800,\n    \"dpr\": 1\n  },\n  \"tokens\": \"HSL-components\",\n  \"reduceMotionSystem\": false,\n  \"settings\": null,\n  \"position\": null,\n  \"focus\": \"إغلاق أدوات سهولة الوصول\",\n  \"media\": [\n    {\n      \"id\": \"demo-audio\",\n      \"muted\": false\n    },\n    {\n      \"id\": \"demo-video\",\n      \"muted\": false\n    }\n  ],\n  \"speech\": {\n    \"speaking\": false,\n    \"pending\": false,\n    \"paused\": false,\n    \"arabicVoices\": [\n      {\n        \"name\": \"Majed\",\n        \"lang\": \"ar-001\",\n        \"local\": true\n      }\n    ]\n  }\n}",
+    "viewport": {
+      "dpr": 1,
+      "height": 800,
+      "width": 1280
+    }
+  },
+  {
+    "label": "Background-focus-verified",
+    "focus": "إغلاق أدوات سهولة الوصول",
+    "guide": null,
+    "inside": true,
+    "launcher": {
+      "bg": "rgb(255, 255, 255)",
+      "clientWidth": 56,
+      "color": "rgb(15, 23, 41)",
+      "height": 56,
+      "outline": "rgb(15, 23, 41) none 3px",
+      "scrollWidth": 56,
+      "width": 56,
+      "x": 1208,
+      "y": 96,
+      "zoom": "1"
+    },
+    "panel": {
+      "bg": "rgb(255, 255, 255)",
+      "clientWidth": 415,
+      "color": "rgb(15, 23, 41)",
+      "height": 800,
+      "outline": "rgb(15, 23, 41) none 3px",
+      "scrollWidth": 415,
+      "width": 416,
+      "x": 864,
+      "y": 0,
+      "zoom": "1"
+    },
+    "status": "{\n  \"ua\": \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36\",\n  \"viewport\": {\n    \"width\": 1280,\n    \"height\": 800,\n    \"dpr\": 1\n  },\n  \"tokens\": \"HSL-components\",\n  \"reduceMotionSystem\": false,\n  \"settings\": null,\n  \"position\": null,\n  \"focus\": \"إغلاق أدوات سهولة الوصول\",\n  \"media\": [\n    {\n      \"id\": \"demo-audio\",\n      \"muted\": false\n    },\n    {\n      \"id\": \"demo-video\",\n      \"muted\": false\n    }\n  ],\n  \"speech\": {\n    \"speaking\": false,\n    \"pending\": false,\n    \"paused\": false,\n    \"arabicVoices\": [\n      {\n        \"name\": \"Majed\",\n        \"lang\": \"ar-001\",\n        \"local\": true\n      }\n    ]\n  }\n}",
+    "viewport": {
+      "dpr": 1,
+      "height": 800,
+      "width": 1280
+    }
+  },
+  {
+    "label": "Hide-verified",
+    "focus": "إظهار أدوات سهولة الوصول",
+    "guide": null,
+    "inside": false,
+    "launcher": null,
+    "panel": null,
+    "status": "{\n  \"ua\": \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36\",\n  \"viewport\": {\n    \"width\": 1280,\n    \"height\": 800,\n    \"dpr\": 1\n  },\n  \"tokens\": \"HSL-components\",\n  \"reduceMotionSystem\": false,\n  \"settings\": null,\n  \"position\": null,\n  \"focus\": \"إظهار أدوات سهولة الوصول\",\n  \"media\": [\n    {\n      \"id\": \"demo-audio\",\n      \"muted\": false\n    },\n    {\n      \"id\": \"demo-video\",\n      \"muted\": false\n    }\n  ],\n  \"speech\": {\n    \"speaking\": false,\n    \"pending\": false,\n    \"paused\": false,\n    \"arabicVoices\": [\n      {\n        \"name\": \"Majed\",\n        \"lang\": \"ar-001\",\n        \"local\": true\n      }\n    ]\n  }\n}",
+    "viewport": {
+      "dpr": 1,
+      "height": 800,
+      "width": 1280
+    }
+  },
+  {
+    "label": "Show-verified",
+    "focus": "أدوات سهولة الوصول",
+    "guide": null,
+    "inside": false,
+    "launcher": {
+      "bg": "rgb(255, 255, 255)",
+      "clientWidth": 56,
+      "color": "rgb(15, 23, 41)",
+      "height": 58.653045654296875,
+      "outline": "rgb(15, 23, 41) none 3px",
+      "scrollWidth": 56,
+      "width": 58.653076171875,
+      "x": 1206.6734619140625,
+      "y": 94.67347717285156,
+      "zoom": "1"
+    },
+    "panel": null,
+    "status": "{\n  \"ua\": \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36\",\n  \"viewport\": {\n    \"width\": 1280,\n    \"height\": 800,\n    \"dpr\": 1\n  },\n  \"tokens\": \"HSL-components\",\n  \"reduceMotionSystem\": false,\n  \"settings\": null,\n  \"position\": null,\n  \"focus\": \"إظهار أدوات سهولة الوصول\",\n  \"media\": [\n    {\n      \"id\": \"demo-audio\",\n      \"muted\": false\n    },\n    {\n      \"id\": \"demo-video\",\n      \"muted\": false\n    }\n  ],\n  \"speech\": {\n    \"speaking\": false,\n    \"pending\": false,\n    \"paused\": false,\n    \"arabicVoices\": [\n      {\n        \"name\": \"Majed\",\n        \"lang\": \"ar-001\",\n        \"local\": true\n      }\n    ]\n  }\n}",
+    "viewport": {
+      "dpr": 1,
+      "height": 800,
+      "width": 1280
+    }
+  },
+  {
+    "label": "Drag-verified",
+    "focus": "صفحة اختبار عربية معزولةنصوص تجريبية عامة — لا بيانات شخصية ",
+    "guide": null,
+    "inside": false,
+    "launcher": {
+      "bg": "rgb(255, 255, 255)",
+      "clientWidth": 56,
+      "color": "rgb(15, 23, 41)",
+      "height": 56,
+      "outline": "rgb(15, 23, 41) none 3px",
+      "scrollWidth": 56,
+      "width": 56,
+      "x": 1208,
+      "y": 96,
+      "zoom": "1"
+    },
+    "panel": null,
+    "status": "{\n  \"ua\": \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36\",\n  \"viewport\": {\n    \"width\": 1280,\n    \"height\": 800,\n    \"dpr\": 1\n  },\n  \"tokens\": \"HSL-components\",\n  \"reduceMotionSystem\": false,\n  \"settings\": null,\n  \"position\": null,\n  \"focus\": \"صفحة اختبار عربية معزولةنصوص تجريبية عامة — لا بيانات شخصية ولا اتصال بحسابات.المحتوىنموذج\",\n  \"media\": [\n    {\n      \"id\": \"demo-audio\",\n      \"muted\": false\n    },\n    {\n      \"id\": \"demo-video\",\n      \"muted\": false\n    }\n  ],\n  \"speech\": {\n    \"speaking\": false,\n    \"pending\": false,\n    \"paused\": false,\n    \"arabicVoices\": [\n      {\n        \"name\": \"Majed\",\n        \"lang\": \"ar-001\",\n        \"local\": true\n      }\n    ]\n  }\n}",
+    "viewport": {
+      "dpr": 1,
+      "height": 800,
+      "width": 1280
+    }
+  },
+  {
+    "label": "Alt-arrow-verified",
+    "focus": "أدوات سهولة الوصول",
+    "guide": null,
+    "inside": false,
+    "launcher": {
+      "bg": "rgb(255, 255, 255)",
+      "clientWidth": 56,
+      "color": "rgb(15, 23, 41)",
+      "height": 56,
+      "outline": "rgb(15, 23, 41) none 3px",
+      "scrollWidth": 56,
+      "width": 56,
+      "x": 1192,
+      "y": 96,
+      "zoom": "1"
+    },
+    "panel": null,
+    "status": "{\n  \"ua\": \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36\",\n  \"viewport\": {\n    \"width\": 1280,\n    \"height\": 800,\n    \"dpr\": 1\n  },\n  \"tokens\": \"HSL-components\",\n  \"reduceMotionSystem\": false,\n  \"settings\": null,\n  \"position\": null,\n  \"focus\": \"صفحة اختبار عربية معزولةنصوص تجريبية عامة — لا بيانات شخصية ولا اتصال بحسابات.المحتوىنموذج\",\n  \"media\": [\n    {\n      \"id\": \"demo-audio\",\n      \"muted\": false\n    },\n    {\n      \"id\": \"demo-video\",\n      \"muted\": false\n    }\n  ],\n  \"speech\": {\n    \"speaking\": false,\n    \"pending\": false,\n    \"paused\": false,\n    \"arabicVoices\": [\n      {\n        \"name\": \"Majed\",\n        \"lang\": \"ar-001\",\n        \"local\": true\n      }\n    ]\n  }\n}",
+    "viewport": {
+      "dpr": 1,
+      "height": 800,
+      "width": 1280
+    }
+  },
+  {
+    "label": "Stored-position-320-verified",
+    "focus": "صفحة اختبار عربية معزولةنصوص تجريبية عامة — لا بيانات شخصية ",
+    "guide": null,
+    "inside": false,
+    "launcher": {
+      "bg": "rgb(255, 255, 255)",
+      "clientWidth": 56,
+      "color": "rgb(15, 23, 41)",
+      "height": 56,
+      "outline": "rgb(15, 23, 41) none 3px",
+      "scrollWidth": 56,
+      "width": 56,
+      "x": 256,
+      "y": 96,
+      "zoom": "1"
+    },
+    "panel": null,
+    "status": "{\n  \"ua\": \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36\",\n  \"viewport\": {\n    \"width\": 320,\n    \"height\": 700,\n    \"dpr\": 1\n  },\n  \"tokens\": \"HSL-components\",\n  \"reduceMotionSystem\": false,\n  \"settings\": null,\n  \"position\": \"{\\\"x\\\":256,\\\"y\\\":96}\",\n  \"focus\": \"صفحة اختبار عربية معزولةنصوص تجريبية عامة — لا بيانات شخصية ولا اتصال بحسابات.المحتوىنموذج\",\n  \"media\": [\n    {\n      \"id\": \"demo-audio\",\n      \"muted\": false\n    },\n    {\n      \"id\": \"demo-video\",\n      \"muted\": false\n    }\n  ],\n  \"speech\": {\n    \"speaking\": false,\n    \"pending\": false,\n    \"paused\": false,\n    \"arabicVoices\": [\n      {\n        \"name\": \"Majed\",\n        \"lang\": \"ar-001\",\n        \"local\": true\n      }\n    ]\n  }\n}",
+    "viewport": {
+      "dpr": 1,
+      "height": 700,
+      "width": 320
+    }
+  },
+  {
+    "label": "Mobile320-font120-verified",
+    "focus": "تقليل تباعد الأسطر",
+    "guide": null,
+    "inside": true,
+    "launcher": {
+      "bg": "rgb(255, 255, 255)",
+      "clientWidth": 67,
+      "color": "rgb(15, 23, 41)",
+      "height": 67.1953125,
+      "outline": "rgb(15, 23, 41) none 3px",
+      "scrollWidth": 67,
+      "width": 67.1953125,
+      "x": 244.8046875,
+      "y": 96,
+      "zoom": "1"
+    },
+    "panel": {
+      "bg": "rgb(255, 255, 255)",
+      "clientWidth": 319,
+      "color": "rgb(15, 23, 41)",
+      "height": 700,
+      "outline": "rgb(15, 23, 41) none 3px",
+      "scrollWidth": 319,
+      "width": 320,
+      "x": 0,
+      "y": 0,
+      "zoom": "1"
+    },
+    "status": "{\n  \"ua\": \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36\",\n  \"viewport\": {\n    \"width\": 320,\n    \"height\": 700,\n    \"dpr\": 1\n  },\n  \"tokens\": \"HSL-components\",\n  \"reduceMotionSystem\": false,\n  \"settings\": \"{\\\"fontScale\\\":120,\\\"letterSpacing\\\":0,\\\"wordSpacing\\\":0,\\\"lineHeight\\\":0,\\\"colorFilter\\\":\\\"none\\\",\\\"darkMode\\\":false,\\\"pageZoom\\\":100,\\\"profileId\\\":null,\\\"highContrast\\\":false,\\\"smartContrast\\\":false,\\\"monochrome\\\":false,\\\"lowSaturation\\\":false,\\\"highSaturation\\\":false,\\\"readableFont\\\":false,\\\"dyslexiaFont\\\":false,\\\"highlightTitles\\\":false,\\\"underlineLinks\\\":false,\\\"justifyText\\\":false,\\\"bigCursor\\\":false,\\\"bigCursorLight\\\":false,\\\"readingGuide\\\":false,\\\"readingMask\\\":false,\\\"hideImages\\\":false,\\\"muteSounds\\\":false,\\\"reduceMotion\\\":false,\\\"highlightHover\\\":false,\\\"highlightFocus\\\":false,\\\"textToSpeech\\\":false}\",\n  \"position\": \"{\\\"x\\\":244.8046875,\\\"y\\\":96}\",\n  \"focus\": \"A+\",\n  \"media\": [\n    {\n      \"id\": \"demo-audio\",\n      \"muted\": false\n    },\n    {\n      \"id\": \"demo-video\",\n      \"muted\": false\n    }\n  ],\n  \"speech\": {\n    \"speaking\": false,\n    \"pending\": false,\n    \"paused\": false,\n    \"arabicVoices\": [\n      {\n        \"name\": \"Majed\",\n        \"lang\": \"ar-001\",\n        \"local\": true\n      }\n    ]\n  }\n}",
+    "viewport": {
+      "dpr": 1,
+      "height": 700,
+      "width": 320
+    }
+  },
+  {
+    "label": "Mobile320-page200-font120-verified",
+    "focus": "200%",
+    "guide": null,
+    "inside": true,
+    "launcher": {
+      "bg": "rgb(255, 255, 255)",
+      "clientWidth": 67,
+      "color": "rgb(15, 23, 41)",
+      "height": 67.1953125,
+      "outline": "rgb(15, 23, 41) none 3px",
+      "scrollWidth": 67,
+      "width": 67.1953125,
+      "x": 244.8046875,
+      "y": 96,
+      "zoom": "1"
+    },
+    "panel": {
+      "bg": "rgb(255, 255, 255)",
+      "clientWidth": 319,
+      "color": "rgb(15, 23, 41)",
+      "height": 700,
+      "outline": "rgb(15, 23, 41) none 3px",
+      "scrollWidth": 319,
+      "width": 320,
+      "x": 0,
+      "y": 0,
+      "zoom": "1"
+    },
+    "status": "{\n  \"ua\": \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36\",\n  \"viewport\": {\n    \"width\": 320,\n    \"height\": 700,\n    \"dpr\": 1\n  },\n  \"tokens\": \"HSL-components\",\n  \"reduceMotionSystem\": false,\n  \"settings\": \"{\\\"fontScale\\\":120,\\\"letterSpacing\\\":0,\\\"wordSpacing\\\":0,\\\"lineHeight\\\":0,\\\"colorFilter\\\":\\\"none\\\",\\\"darkMode\\\":false,\\\"pageZoom\\\":200,\\\"profileId\\\":null,\\\"highContrast\\\":false,\\\"smartContrast\\\":false,\\\"monochrome\\\":false,\\\"lowSaturation\\\":false,\\\"highSaturation\\\":false,\\\"readableFont\\\":false,\\\"dyslexiaFont\\\":false,\\\"highlightTitles\\\":false,\\\"underlineLinks\\\":false,\\\"justifyText\\\":false,\\\"bigCursor\\\":false,\\\"bigCursorLight\\\":false,\\\"readingGuide\\\":false,\\\"readingMask\\\":false,\\\"hideImages\\\":false,\\\"muteSounds\\\":false,\\\"reduceMotion\\\":false,\\\"highlightHover\\\":false,\\\"highlightFocus\\\":false,\\\"textToSpeech\\\":false}\",\n  \"position\": \"{\\\"x\\\":244.8046875,\\\"y\\\":96}\",\n  \"focus\": \"200%\",\n  \"media\": [\n    {\n      \"id\": \"demo-audio\",\n      \"muted\": false\n    },\n    {\n      \"id\": \"demo-video\",\n      \"muted\": false\n    }\n  ],\n  \"speech\": {\n    \"speaking\": false,\n    \"pending\": false,\n    \"paused\": false,\n    \"arabicVoices\": [\n      {\n        \"name\": \"Majed\",\n        \"lang\": \"ar-001\",\n        \"local\": true\n      }\n    ]\n  }\n}",
+    "viewport": {
+      "dpr": 1,
+      "height": 700,
+      "width": 320
+    }
+  },
+  {
+    "label": "Mobile375-verified",
+    "focus": "إعادة الضبط",
+    "guide": null,
+    "inside": true,
+    "launcher": {
+      "bg": "rgb(255, 255, 255)",
+      "clientWidth": 56,
+      "color": "rgb(15, 23, 41)",
+      "height": 56,
+      "outline": "rgb(15, 23, 41) none 3px",
+      "scrollWidth": 56,
+      "width": 56,
+      "x": 244.8046875,
+      "y": 96,
+      "zoom": "1"
+    },
+    "panel": {
+      "bg": "rgb(255, 255, 255)",
+      "clientWidth": 374,
+      "color": "rgb(15, 23, 41)",
+      "height": 812,
+      "outline": "rgb(15, 23, 41) none 3px",
+      "scrollWidth": 374,
+      "width": 375,
+      "x": 0,
+      "y": 0,
+      "zoom": "1"
+    },
+    "status": "{\n  \"ua\": \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36\",\n  \"viewport\": {\n    \"width\": 375,\n    \"height\": 812,\n    \"dpr\": 1\n  },\n  \"tokens\": \"HSL-components\",\n  \"reduceMotionSystem\": false,\n  \"settings\": null,\n  \"position\": \"{\\\"x\\\":244.8046875,\\\"y\\\":96}\",\n  \"focus\": \"إعادة الضبط\",\n  \"media\": [\n    {\n      \"id\": \"demo-audio\",\n      \"muted\": false\n    },\n    {\n      \"id\": \"demo-video\",\n      \"muted\": false\n    }\n  ],\n  \"speech\": {\n    \"speaking\": false,\n    \"pending\": false,\n    \"paused\": false,\n    \"arabicVoices\": [\n      {\n        \"name\": \"Majed\",\n        \"lang\": \"ar-001\",\n        \"local\": true\n      }\n    ]\n  }\n}",
+    "viewport": {
+      "dpr": 1,
+      "height": 812,
+      "width": 375
+    }
+  },
+  {
+    "label": "High-contrast-panel-fixed",
+    "focus": "تباين عالٍ",
+    "guide": null,
+    "inside": true,
+    "launcher": {
+      "bg": "rgb(255, 255, 255)",
+      "clientWidth": 56,
+      "color": "rgb(15, 23, 41)",
+      "height": 56,
+      "outline": "rgb(15, 23, 41) none 3px",
+      "scrollWidth": 56,
+      "width": 56,
+      "x": 244.8046875,
+      "y": 96,
+      "zoom": "1"
+    },
+    "panel": {
+      "bg": "rgb(255, 255, 255)",
+      "clientWidth": 415,
+      "color": "rgb(15, 23, 41)",
+      "height": 800,
+      "outline": "rgb(15, 23, 41) none 3px",
+      "scrollWidth": 415,
+      "width": 416,
+      "x": 864,
+      "y": 0,
+      "zoom": "1"
+    },
+    "status": "{\n  \"ua\": \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36\",\n  \"viewport\": {\n    \"width\": 1280,\n    \"height\": 800,\n    \"dpr\": 1\n  },\n  \"tokens\": \"HSL-components\",\n  \"reduceMotionSystem\": false,\n  \"settings\": null,\n  \"position\": \"{\\\"x\\\":244.8046875,\\\"y\\\":96}\",\n  \"focus\": \"تباين عالٍ\",\n  \"media\": [\n    {\n      \"id\": \"demo-audio\",\n      \"muted\": false\n    },\n    {\n      \"id\": \"demo-video\",\n      \"muted\": false\n    }\n  ],\n  \"speech\": {\n    \"speaking\": false,\n    \"pending\": false,\n    \"paused\": false,\n    \"arabicVoices\": [\n      {\n        \"name\": \"Majed\",\n        \"lang\": \"ar-001\",\n        \"local\": true\n      }\n    ]\n  }\n}",
+    "viewport": {
+      "dpr": 1,
+      "height": 800,
+      "width": 1280
+    }
+  },
+  {
+    "label": "Grayscale-panel-fixed",
+    "focus": "تدرّج رمادي",
+    "guide": null,
+    "inside": true,
+    "launcher": {
+      "bg": "rgb(255, 255, 255)",
+      "clientWidth": 56,
+      "color": "rgb(15, 23, 41)",
+      "height": 56,
+      "outline": "rgb(15, 23, 41) none 3px",
+      "scrollWidth": 56,
+      "width": 56,
+      "x": 244.8046875,
+      "y": 96,
+      "zoom": "1"
+    },
+    "panel": {
+      "bg": "rgb(255, 255, 255)",
+      "clientWidth": 415,
+      "color": "rgb(15, 23, 41)",
+      "height": 800,
+      "outline": "rgb(15, 23, 41) none 3px",
+      "scrollWidth": 415,
+      "width": 416,
+      "x": 864,
+      "y": 0,
+      "zoom": "1"
+    },
+    "status": "{\n  \"ua\": \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36\",\n  \"viewport\": {\n    \"width\": 1280,\n    \"height\": 800,\n    \"dpr\": 1\n  },\n  \"tokens\": \"HSL-components\",\n  \"reduceMotionSystem\": false,\n  \"settings\": \"{\\\"fontScale\\\":100,\\\"letterSpacing\\\":0,\\\"wordSpacing\\\":0,\\\"lineHeight\\\":0,\\\"colorFilter\\\":\\\"none\\\",\\\"darkMode\\\":false,\\\"pageZoom\\\":100,\\\"profileId\\\":null,\\\"highContrast\\\":false,\\\"smartContrast\\\":false,\\\"monochrome\\\":true,\\\"lowSaturation\\\":false,\\\"highSaturation\\\":false,\\\"readableFont\\\":false,\\\"dyslexiaFont\\\":false,\\\"highlightTitles\\\":false,\\\"underlineLinks\\\":false,\\\"justifyText\\\":false,\\\"bigCursor\\\":false,\\\"bigCursorLight\\\":false,\\\"readingGuide\\\":false,\\\"readingMask\\\":false,\\\"hideImages\\\":false,\\\"muteSounds\\\":false,\\\"reduceMotion\\\":false,\\\"highlightHover\\\":false,\\\"highlightFocus\\\":false,\\\"textToSpeech\\\":false}\",\n  \"position\": \"{\\\"x\\\":244.8046875,\\\"y\\\":96}\",\n  \"focus\": \"تدرّج رمادي\",\n  \"media\": [\n    {\n      \"id\": \"demo-audio\",\n      \"muted\": false\n    },\n    {\n      \"id\": \"demo-video\",\n      \"muted\": false\n    }\n  ],\n  \"speech\": {\n    \"speaking\": false,\n    \"pending\": false,\n    \"paused\": false,\n    \"arabicVoices\": [\n      {\n        \"name\": \"Majed\",\n        \"lang\": \"ar-001\",\n        \"local\": true\n      }\n    ]\n  }\n}",
+    "viewport": {
+      "dpr": 1,
+      "height": 800,
+      "width": 1280
+    }
+  },
+  {
+    "label": "Dark-exclusivity",
+    "focus": "الوضع الداكن",
+    "guide": null,
+    "inside": true,
+    "launcher": {
+      "bg": "rgb(255, 255, 255)",
+      "clientWidth": 56,
+      "color": "rgb(15, 23, 41)",
+      "height": 56,
+      "outline": "rgb(15, 23, 41) none 3px",
+      "scrollWidth": 56,
+      "width": 56,
+      "x": 244.8046875,
+      "y": 96,
+      "zoom": "1"
+    },
+    "panel": {
+      "bg": "rgb(255, 255, 255)",
+      "clientWidth": 415,
+      "color": "rgb(15, 23, 41)",
+      "height": 800,
+      "outline": "rgb(15, 23, 41) none 3px",
+      "scrollWidth": 415,
+      "width": 416,
+      "x": 864,
+      "y": 0,
+      "zoom": "1"
+    },
+    "status": "{\n  \"ua\": \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36\",\n  \"viewport\": {\n    \"width\": 1280,\n    \"height\": 800,\n    \"dpr\": 1\n  },\n  \"tokens\": \"HSL-components\",\n  \"reduceMotionSystem\": false,\n  \"settings\": \"{\\\"fontScale\\\":100,\\\"letterSpacing\\\":0,\\\"wordSpacing\\\":0,\\\"lineHeight\\\":0,\\\"colorFilter\\\":\\\"none\\\",\\\"darkMode\\\":false,\\\"pageZoom\\\":100,\\\"profileId\\\":null,\\\"highContrast\\\":false,\\\"smartContrast\\\":false,\\\"monochrome\\\":true,\\\"lowSaturation\\\":false,\\\"highSaturation\\\":false,\\\"readableFont\\\":false,\\\"dyslexiaFont\\\":false,\\\"highlightTitles\\\":false,\\\"underlineLinks\\\":false,\\\"justifyText\\\":false,\\\"bigCursor\\\":false,\\\"bigCursorLight\\\":false,\\\"readingGuide\\\":false,\\\"readingMask\\\":false,\\\"hideImages\\\":false,\\\"muteSounds\\\":false,\\\"reduceMotion\\\":false,\\\"highlightHover\\\":false,\\\"highlightFocus\\\":false,\\\"textToSpeech\\\":false}\",\n  \"position\": \"{\\\"x\\\":244.8046875,\\\"y\\\":96}\",\n  \"focus\": \"تدرّج رمادي\",\n  \"media\": [\n    {\n      \"id\": \"demo-audio\",\n      \"muted\": false\n    },\n    {\n      \"id\": \"demo-video\",\n      \"muted\": false\n    }\n  ],\n  \"speech\": {\n    \"speaking\": false,\n    \"pending\": false,\n    \"paused\": false,\n    \"arabicVoices\": [\n      {\n        \"name\": \"Majed\",\n        \"lang\": \"ar-001\",\n        \"local\": true\n      }\n    ]\n  }\n}",
+    "viewport": {
+      "dpr": 1,
+      "height": 800,
+      "width": 1280
+    }
+  },
+  {
+    "label": "Color-filter-exclusivity",
+    "focus": "ضعف الأحمر",
+    "guide": null,
+    "inside": true,
+    "launcher": {
+      "bg": "rgb(255, 255, 255)",
+      "clientWidth": 56,
+      "color": "rgb(15, 23, 41)",
+      "height": 56,
+      "outline": "rgb(15, 23, 41) none 3px",
+      "scrollWidth": 56,
+      "width": 56,
+      "x": 244.8046875,
+      "y": 96,
+      "zoom": "1"
+    },
+    "panel": {
+      "bg": "rgb(255, 255, 255)",
+      "clientWidth": 415,
+      "color": "rgb(15, 23, 41)",
+      "height": 800,
+      "outline": "rgb(15, 23, 41) none 3px",
+      "scrollWidth": 415,
+      "width": 416,
+      "x": 864,
+      "y": 0,
+      "zoom": "1"
+    },
+    "status": "{\n  \"ua\": \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36\",\n  \"viewport\": {\n    \"width\": 1280,\n    \"height\": 800,\n    \"dpr\": 1\n  },\n  \"tokens\": \"HSL-components\",\n  \"reduceMotionSystem\": false,\n  \"settings\": \"{\\\"fontScale\\\":100,\\\"letterSpacing\\\":0,\\\"wordSpacing\\\":0,\\\"lineHeight\\\":0,\\\"colorFilter\\\":\\\"none\\\",\\\"darkMode\\\":true,\\\"pageZoom\\\":100,\\\"profileId\\\":null,\\\"highContrast\\\":false,\\\"smartContrast\\\":false,\\\"monochrome\\\":false,\\\"lowSaturation\\\":false,\\\"highSaturation\\\":false,\\\"readableFont\\\":false,\\\"dyslexiaFont\\\":false,\\\"highlightTitles\\\":false,\\\"underlineLinks\\\":false,\\\"justifyText\\\":false,\\\"bigCursor\\\":false,\\\"bigCursorLight\\\":false,\\\"readingGuide\\\":false,\\\"readingMask\\\":false,\\\"hideImages\\\":false,\\\"muteSounds\\\":false,\\\"reduceMotion\\\":false,\\\"highlightHover\\\":false,\\\"highlightFocus\\\":false,\\\"textToSpeech\\\":false}\",\n  \"position\": \"{\\\"x\\\":244.8046875,\\\"y\\\":96}\",\n  \"focus\": \"ضعف الأحمر\",\n  \"media\": [\n    {\n      \"id\": \"demo-audio\",\n      \"muted\": false\n    },\n    {\n      \"id\": \"demo-video\",\n      \"muted\": false\n    }\n  ],\n  \"speech\": {\n    \"speaking\": false,\n    \"pending\": false,\n    \"paused\": false,\n    \"arabicVoices\": [\n      {\n        \"name\": \"Majed\",\n        \"lang\": \"ar-001\",\n        \"local\": true\n      }\n    ]\n  }\n}",
+    "viewport": {
+      "dpr": 1,
+      "height": 800,
+      "width": 1280
+    }
+  },
+  {
+    "label": "Media-user-mute-preserved",
+    "focus": "A+",
+    "guide": null,
+    "inside": true,
+    "launcher": {
+      "bg": "rgb(255, 255, 255)",
+      "clientWidth": 67,
+      "color": "rgb(15, 23, 41)",
+      "height": 67.1953125,
+      "outline": "rgb(15, 23, 41) none 3px",
+      "scrollWidth": 67,
+      "width": 67.1953125,
+      "x": 244.8046875,
+      "y": 96,
+      "zoom": "1"
+    },
+    "panel": {
+      "bg": "rgb(255, 255, 255)",
+      "clientWidth": 498,
+      "color": "rgb(15, 23, 41)",
+      "height": 800,
+      "outline": "rgb(15, 23, 41) none 3px",
+      "scrollWidth": 498,
+      "width": 499.1953125,
+      "x": 780.8046875,
+      "y": 0,
+      "zoom": "1"
+    },
+    "status": "{\n  \"ua\": \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36\",\n  \"viewport\": {\n    \"width\": 1280,\n    \"height\": 800,\n    \"dpr\": 1\n  },\n  \"tokens\": \"HSL-components\",\n  \"reduceMotionSystem\": false,\n  \"settings\": \"{\\\"fontScale\\\":120,\\\"letterSpacing\\\":0,\\\"wordSpacing\\\":0,\\\"lineHeight\\\":0,\\\"colorFilter\\\":\\\"none\\\",\\\"darkMode\\\":false,\\\"pageZoom\\\":100,\\\"profileId\\\":null,\\\"highContrast\\\":false,\\\"smartContrast\\\":false,\\\"monochrome\\\":false,\\\"lowSaturation\\\":false,\\\"highSaturation\\\":false,\\\"readableFont\\\":false,\\\"dyslexiaFont\\\":false,\\\"highlightTitles\\\":false,\\\"underlineLinks\\\":false,\\\"justifyText\\\":false,\\\"bigCursor\\\":false,\\\"bigCursorLight\\\":false,\\\"readingGuide\\\":false,\\\"readingMask\\\":false,\\\"hideImages\\\":false,\\\"muteSounds\\\":false,\\\"reduceMotion\\\":false,\\\"highlightHover\\\":false,\\\"highlightFocus\\\":false,\\\"textToSpeech\\\":false}\",\n  \"position\": \"{\\\"x\\\":244.8046875,\\\"y\\\":96}\",\n  \"focus\": \"A+\",\n  \"media\": [\n    {\n      \"id\": \"demo-audio\",\n      \"muted\": true\n    },\n    {\n      \"id\": \"demo-video\",\n      \"muted\": true\n    }\n  ],\n  \"speech\": {\n    \"speaking\": false,\n    \"pending\": false,\n    \"paused\": false,\n    \"arabicVoices\": [\n      {\n        \"name\": \"Majed\",\n        \"lang\": \"ar-001\",\n        \"local\": true\n      }\n    ]\n  }\n}",
+    "viewport": {
+      "dpr": 1,
+      "height": 800,
+      "width": 1280
+    }
+  },
+  {
+    "label": "Media-toolbar-mute-preserved",
+    "focus": "A-",
+    "guide": null,
+    "inside": true,
+    "launcher": {
+      "bg": "rgb(255, 255, 255)",
+      "clientWidth": 50,
+      "color": "rgb(15, 23, 41)",
+      "height": 50.3984375,
+      "outline": "rgb(15, 23, 41) none 3px",
+      "scrollWidth": 50,
+      "width": 50.3984375,
+      "x": 244.8046875,
+      "y": 96,
+      "zoom": "1"
+    },
+    "panel": {
+      "bg": "rgb(255, 255, 255)",
+      "clientWidth": 373,
+      "color": "rgb(15, 23, 41)",
+      "height": 800,
+      "outline": "rgb(15, 23, 41) none 3px",
+      "scrollWidth": 373,
+      "width": 374.3984375,
+      "x": 905.6015625,
+      "y": 0,
+      "zoom": "1"
+    },
+    "status": "{\n  \"ua\": \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36\",\n  \"viewport\": {\n    \"width\": 1280,\n    \"height\": 800,\n    \"dpr\": 1\n  },\n  \"tokens\": \"HSL-components\",\n  \"reduceMotionSystem\": false,\n  \"settings\": \"{\\\"fontScale\\\":90,\\\"letterSpacing\\\":0,\\\"wordSpacing\\\":0,\\\"lineHeight\\\":0,\\\"colorFilter\\\":\\\"none\\\",\\\"darkMode\\\":false,\\\"pageZoom\\\":100,\\\"profileId\\\":null,\\\"highContrast\\\":false,\\\"smartContrast\\\":false,\\\"monochrome\\\":false,\\\"lowSaturation\\\":false,\\\"highSaturation\\\":false,\\\"readableFont\\\":false,\\\"dyslexiaFont\\\":false,\\\"highlightTitles\\\":false,\\\"underlineLinks\\\":false,\\\"justifyText\\\":false,\\\"bigCursor\\\":false,\\\"bigCursorLight\\\":false,\\\"readingGuide\\\":false,\\\"readingMask\\\":false,\\\"hideImages\\\":false,\\\"muteSounds\\\":true,\\\"reduceMotion\\\":false,\\\"highlightHover\\\":false,\\\"highlightFocus\\\":false,\\\"textToSpeech\\\":false}\",\n  \"position\": \"{\\\"x\\\":244.8046875,\\\"y\\\":96}\",\n  \"focus\": \"A-\",\n  \"media\": [\n    {\n      \"id\": \"demo-audio\",\n      \"muted\": true\n    },\n    {\n      \"id\": \"demo-video\",\n      \"muted\": true\n    }\n  ],\n  \"speech\": {\n    \"speaking\": false,\n    \"pending\": false,\n    \"paused\": false,\n    \"arabicVoices\": [\n      {\n        \"name\": \"Majed\",\n        \"lang\": \"ar-001\",\n        \"local\": true\n      }\n    ]\n  }\n}",
+    "viewport": {
+      "dpr": 1,
+      "height": 800,
+      "width": 1280
+    }
+  },
+  {
+    "label": "Drag-actual-position-change",
+    "focus": "أدوات سهولة الوصول",
+    "guide": null,
+    "inside": false,
+    "launcher": {
+      "bg": "rgb(255, 255, 255)",
+      "clientWidth": 56,
+      "color": "rgb(15, 23, 41)",
+      "height": 58.79998779296875,
+      "outline": "rgb(15, 23, 41) none 3px",
+      "scrollWidth": 56,
+      "width": 58.800048828125,
+      "x": 670.1546630859375,
+      "y": 270.3500061035156,
+      "zoom": "1"
+    },
+    "panel": null,
+    "status": "{\n  \"ua\": \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36\",\n  \"viewport\": {\n    \"width\": 1280,\n    \"height\": 800,\n    \"dpr\": 1\n  },\n  \"tokens\": \"HSL-components\",\n  \"reduceMotionSystem\": false,\n  \"settings\": null,\n  \"position\": \"{\\\"x\\\":671.5584716796875,\\\"y\\\":271.75379180908203}\",\n  \"focus\": \"أدوات سهولة الوصول\",\n  \"media\": [\n    {\n      \"id\": \"demo-audio\",\n      \"muted\": false\n    },\n    {\n      \"id\": \"demo-video\",\n      \"muted\": false\n    }\n  ],\n  \"speech\": {\n    \"speaking\": false,\n    \"pending\": false,\n    \"paused\": false,\n    \"arabicVoices\": [\n      {\n        \"name\": \"Majed\",\n        \"lang\": \"ar-001\",\n        \"local\": true\n      }\n    ]\n  }\n}",
+    "viewport": {
+      "dpr": 1,
+      "height": 800,
+      "width": 1280
+    }
+  },
+  {
+    "label": "Selection-stop-enabled",
+    "focus": "صفحة اختبار عربية معزولةنصوص تجريبية عامة — لا بيانات شخصية ",
+    "guide": null,
+    "inside": false,
+    "launcher": {
+      "bg": "rgb(255, 255, 255)",
+      "clientWidth": 56,
+      "color": "rgb(15, 23, 41)",
+      "height": 58.79998779296875,
+      "outline": "rgb(15, 23, 41) none 3px",
+      "scrollWidth": 56,
+      "width": 58.800048828125,
+      "x": 670.1546630859375,
+      "y": 270.3500061035156,
+      "zoom": "1"
+    },
+    "panel": null,
+    "status": "{\n  \"ua\": \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36\",\n  \"viewport\": {\n    \"width\": 1280,\n    \"height\": 800,\n    \"dpr\": 1\n  },\n  \"tokens\": \"HSL-components\",\n  \"reduceMotionSystem\": false,\n  \"settings\": \"{\\\"fontScale\\\":100,\\\"letterSpacing\\\":0,\\\"wordSpacing\\\":0,\\\"lineHeight\\\":0,\\\"colorFilter\\\":\\\"none\\\",\\\"darkMode\\\":false,\\\"pageZoom\\\":100,\\\"profileId\\\":null,\\\"highContrast\\\":false,\\\"smartContrast\\\":false,\\\"monochrome\\\":false,\\\"lowSaturation\\\":false,\\\"highSaturation\\\":false,\\\"readableFont\\\":false,\\\"dyslexiaFont\\\":false,\\\"highlightTitles\\\":false,\\\"underlineLinks\\\":false,\\\"justifyText\\\":false,\\\"bigCursor\\\":false,\\\"bigCursorLight\\\":false,\\\"readingGuide\\\":false,\\\"readingMask\\\":false,\\\"hideImages\\\":false,\\\"muteSounds\\\":false,\\\"reduceMotion\\\":false,\\\"highlightHover\\\":false,\\\"highlightFocus\\\":false,\\\"textToSpeech\\\":true}\",\n  \"position\": \"{\\\"x\\\":671.5584716796875,\\\"y\\\":271.75379180908203}\",\n  \"focus\": \"صفحة اختبار عربية معزولةنصوص تجريبية عامة — لا بيانات شخصية ولا اتصال بحسابات.المحتوىنموذج\",\n  \"media\": [\n    {\n      \"id\": \"demo-audio\",\n      \"muted\": false\n    },\n    {\n      \"id\": \"demo-video\",\n      \"muted\": false\n    }\n  ],\n  \"speech\": {\n    \"speaking\": true,\n    \"pending\": false,\n    \"paused\": false,\n    \"arabicVoices\": [\n      {\n        \"name\": \"Majed\",\n        \"lang\": \"ar-001\",\n        \"local\": true\n      }\n    ]\n  }\n}",
+    "viewport": {
+      "dpr": 1,
+      "height": 800,
+      "width": 1280
+    }
+  },
+  {
+    "label": "Selection-stop-enabled-verified",
+    "focus": "إغلاق أدوات سهولة الوصول",
+    "guide": null,
+    "inside": true,
+    "launcher": {
+      "bg": "rgb(255, 255, 255)",
+      "clientWidth": 56,
+      "color": "rgb(15, 23, 41)",
+      "height": 56,
+      "outline": "rgb(15, 23, 41) none 3px",
+      "scrollWidth": 56,
+      "width": 56,
+      "x": 671.5546875,
+      "y": 271.75,
+      "zoom": "1"
+    },
+    "panel": {
+      "bg": "rgb(255, 255, 255)",
+      "clientWidth": 415,
+      "color": "rgb(15, 23, 41)",
+      "height": 800,
+      "outline": "rgb(15, 23, 41) none 3px",
+      "scrollWidth": 415,
+      "width": 416,
+      "x": 864,
+      "y": 0,
+      "zoom": "1"
+    },
+    "status": "{\n  \"ua\": \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36\",\n  \"viewport\": {\n    \"width\": 1280,\n    \"height\": 800,\n    \"dpr\": 1\n  },\n  \"tokens\": \"HSL-components\",\n  \"reduceMotionSystem\": false,\n  \"settings\": \"{\\\"fontScale\\\":100,\\\"letterSpacing\\\":0,\\\"wordSpacing\\\":0,\\\"lineHeight\\\":0,\\\"colorFilter\\\":\\\"none\\\",\\\"darkMode\\\":false,\\\"pageZoom\\\":100,\\\"profileId\\\":null,\\\"highContrast\\\":false,\\\"smartContrast\\\":false,\\\"monochrome\\\":false,\\\"lowSaturation\\\":false,\\\"highSaturation\\\":false,\\\"readableFont\\\":false,\\\"dyslexiaFont\\\":false,\\\"highlightTitles\\\":false,\\\"underlineLinks\\\":false,\\\"justifyText\\\":false,\\\"bigCursor\\\":false,\\\"bigCursorLight\\\":false,\\\"readingGuide\\\":false,\\\"readingMask\\\":false,\\\"hideImages\\\":false,\\\"muteSounds\\\":false,\\\"reduceMotion\\\":false,\\\"highlightHover\\\":false,\\\"highlightFocus\\\":false,\\\"textToSpeech\\\":false}\",\n  \"position\": \"{\\\"x\\\":671.5584716796875,\\\"y\\\":271.75379180908203}\",\n  \"focus\": \"إغلاق أدوات سهولة الوصول\",\n  \"media\": [\n    {\n      \"id\": \"demo-audio\",\n      \"muted\": false\n    },\n    {\n      \"id\": \"demo-video\",\n      \"muted\": false\n    }\n  ],\n  \"speech\": {\n    \"speaking\": false,\n    \"pending\": false,\n    \"paused\": false,\n    \"arabicVoices\": [\n      {\n        \"name\": \"Majed\",\n        \"lang\": \"ar-001\",\n        \"local\": true\n      }\n    ]\n  }\n}",
+    "viewport": {
+      "dpr": 1,
+      "height": 800,
+      "width": 1280
+    }
+  },
+  {
+    "label": "Selection-stop-final",
+    "focus": "إغلاق أدوات سهولة الوصول",
+    "guide": null,
+    "inside": true,
+    "launcher": {
+      "bg": "rgb(255, 255, 255)",
+      "clientWidth": 56,
+      "color": "rgb(15, 23, 41)",
+      "height": 56,
+      "outline": "rgb(15, 23, 41) none 3px",
+      "scrollWidth": 56,
+      "width": 56,
+      "x": 671.5546875,
+      "y": 271.75,
+      "zoom": "1"
+    },
+    "panel": {
+      "bg": "rgb(255, 255, 255)",
+      "clientWidth": 415,
+      "color": "rgb(15, 23, 41)",
+      "height": 800,
+      "outline": "rgb(15, 23, 41) none 3px",
+      "scrollWidth": 415,
+      "width": 416,
+      "x": 864,
+      "y": 0,
+      "zoom": "1"
+    },
+    "status": "{\n  \"ua\": \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36\",\n  \"viewport\": {\n    \"width\": 1280,\n    \"height\": 800,\n    \"dpr\": 1\n  },\n  \"tokens\": \"HSL-components\",\n  \"reduceMotionSystem\": false,\n  \"settings\": \"{\\\"fontScale\\\":100,\\\"letterSpacing\\\":0,\\\"wordSpacing\\\":0,\\\"lineHeight\\\":0,\\\"colorFilter\\\":\\\"none\\\",\\\"darkMode\\\":false,\\\"pageZoom\\\":100,\\\"profileId\\\":null,\\\"highContrast\\\":false,\\\"smartContrast\\\":false,\\\"monochrome\\\":false,\\\"lowSaturation\\\":false,\\\"highSaturation\\\":false,\\\"readableFont\\\":false,\\\"dyslexiaFont\\\":false,\\\"highlightTitles\\\":false,\\\"underlineLinks\\\":false,\\\"justifyText\\\":false,\\\"bigCursor\\\":false,\\\"bigCursorLight\\\":false,\\\"readingGuide\\\":false,\\\"readingMask\\\":false,\\\"hideImages\\\":false,\\\"muteSounds\\\":false,\\\"reduceMotion\\\":false,\\\"highlightHover\\\":false,\\\"highlightFocus\\\":false,\\\"textToSpeech\\\":true}\",\n  \"position\": \"{\\\"x\\\":671.5584716796875,\\\"y\\\":271.75379180908203}\",\n  \"focus\": \"إغلاق أدوات سهولة الوصول\",\n  \"media\": [\n    {\n      \"id\": \"demo-audio\",\n      \"muted\": false\n    },\n    {\n      \"id\": \"demo-video\",\n      \"muted\": false\n    }\n  ],\n  \"speech\": {\n    \"speaking\": false,\n    \"pending\": false,\n    \"paused\": false,\n    \"arabicVoices\": [\n      {\n        \"name\": \"Majed\",\n        \"lang\": \"ar-001\",\n        \"local\": true\n      }\n    ]\n  }\n}",
+    "viewport": {
+      "dpr": 1,
+      "height": 800,
+      "width": 1280
+    }
+  },
+  {
+    "label": "Native-page-reader-final",
+    "focus": "إيقاف مؤقت",
+    "guide": null,
+    "inside": true,
+    "launcher": {
+      "bg": "rgb(255, 255, 255)",
+      "clientWidth": 56,
+      "color": "rgb(15, 23, 41)",
+      "height": 56,
+      "outline": "rgb(15, 23, 41) none 3px",
+      "scrollWidth": 56,
+      "width": 56,
+      "x": 671.5546875,
+      "y": 271.75,
+      "zoom": "1"
+    },
+    "panel": {
+      "bg": "rgb(255, 255, 255)",
+      "clientWidth": 415,
+      "color": "rgb(15, 23, 41)",
+      "height": 800,
+      "outline": "rgb(15, 23, 41) none 3px",
+      "scrollWidth": 415,
+      "width": 416,
+      "x": 864,
+      "y": 0,
+      "zoom": "1"
+    },
+    "status": "{\n  \"ua\": \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36\",\n  \"viewport\": {\n    \"width\": 1280,\n    \"height\": 800,\n    \"dpr\": 1\n  },\n  \"tokens\": \"HSL-components\",\n  \"reduceMotionSystem\": false,\n  \"settings\": \"{\\\"fontScale\\\":100,\\\"letterSpacing\\\":0,\\\"wordSpacing\\\":0,\\\"lineHeight\\\":0,\\\"colorFilter\\\":\\\"none\\\",\\\"darkMode\\\":false,\\\"pageZoom\\\":100,\\\"profileId\\\":null,\\\"highContrast\\\":false,\\\"smartContrast\\\":false,\\\"monochrome\\\":false,\\\"lowSaturation\\\":false,\\\"highSaturation\\\":false,\\\"readableFont\\\":false,\\\"dyslexiaFont\\\":false,\\\"highlightTitles\\\":false,\\\"underlineLinks\\\":false,\\\"justifyText\\\":false,\\\"bigCursor\\\":false,\\\"bigCursorLight\\\":false,\\\"readingGuide\\\":false,\\\"readingMask\\\":false,\\\"hideImages\\\":false,\\\"muteSounds\\\":false,\\\"reduceMotion\\\":false,\\\"highlightHover\\\":false,\\\"highlightFocus\\\":false,\\\"textToSpeech\\\":true}\",\n  \"position\": \"{\\\"x\\\":671.5584716796875,\\\"y\\\":271.75379180908203}\",\n  \"focus\": \"إيقاف مؤقت\",\n  \"media\": [\n    {\n      \"id\": \"demo-audio\",\n      \"muted\": false\n    },\n    {\n      \"id\": \"demo-video\",\n      \"muted\": false\n    }\n  ],\n  \"speech\": {\n    \"speaking\": true,\n    \"pending\": false,\n    \"paused\": false,\n    \"arabicVoices\": [\n      {\n        \"name\": \"Majed\",\n        \"lang\": \"ar-001\",\n        \"local\": true\n      }\n    ]\n  }\n}",
+    "viewport": {
+      "dpr": 1,
+      "height": 800,
+      "width": 1280
+    }
+  },
+  {
+    "label": "Reduced-motion-native-final",
+    "focus": "إيقاف مؤقت",
+    "guide": null,
+    "inside": true,
+    "launcher": {
+      "bg": "rgb(255, 255, 255)",
+      "clientWidth": 56,
+      "color": "rgb(15, 23, 41)",
+      "height": 56,
+      "outline": "rgb(15, 23, 41) none 3px",
+      "scrollWidth": 56,
+      "width": 56,
+      "x": 671.5546875,
+      "y": 271.75,
+      "zoom": "1"
+    },
+    "panel": {
+      "bg": "rgb(255, 255, 255)",
+      "clientWidth": 415,
+      "color": "rgb(15, 23, 41)",
+      "height": 800,
+      "outline": "rgb(15, 23, 41) none 3px",
+      "scrollWidth": 415,
+      "width": 416,
+      "x": 864,
+      "y": 0,
+      "zoom": "1"
+    },
+    "status": "{\n  \"ua\": \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36\",\n  \"viewport\": {\n    \"width\": 1280,\n    \"height\": 800,\n    \"dpr\": 1\n  },\n  \"tokens\": \"HSL-components\",\n  \"reduceMotionSystem\": false,\n  \"settings\": \"{\\\"fontScale\\\":100,\\\"letterSpacing\\\":0,\\\"wordSpacing\\\":0,\\\"lineHeight\\\":0,\\\"colorFilter\\\":\\\"none\\\",\\\"darkMode\\\":false,\\\"pageZoom\\\":100,\\\"profileId\\\":null,\\\"highContrast\\\":false,\\\"smartContrast\\\":false,\\\"monochrome\\\":false,\\\"lowSaturation\\\":false,\\\"highSaturation\\\":false,\\\"readableFont\\\":false,\\\"dyslexiaFont\\\":false,\\\"highlightTitles\\\":false,\\\"underlineLinks\\\":false,\\\"justifyText\\\":false,\\\"bigCursor\\\":false,\\\"bigCursorLight\\\":false,\\\"readingGuide\\\":false,\\\"readingMask\\\":false,\\\"hideImages\\\":false,\\\"muteSounds\\\":false,\\\"reduceMotion\\\":false,\\\"highlightHover\\\":false,\\\"highlightFocus\\\":false,\\\"textToSpeech\\\":true}\",\n  \"position\": \"{\\\"x\\\":671.5584716796875,\\\"y\\\":271.75379180908203}\",\n  \"focus\": \"إيقاف مؤقت\",\n  \"media\": [\n    {\n      \"id\": \"demo-audio\",\n      \"muted\": false\n    },\n    {\n      \"id\": \"demo-video\",\n      \"muted\": false\n    }\n  ],\n  \"speech\": {\n    \"speaking\": true,\n    \"pending\": false,\n    \"paused\": false,\n    \"arabicVoices\": [\n      {\n        \"name\": \"Majed\",\n        \"lang\": \"ar-001\",\n        \"local\": true\n      }\n    ]\n  }\n}",
+    "viewport": {
+      "dpr": 1,
+      "height": 800,
+      "width": 1280
+    }
+  },
+  {
+    "label": "Native-pause",
+    "focus": "متابعة",
+    "guide": null,
+    "inside": true,
+    "launcher": {
+      "bg": "rgb(255, 255, 255)",
+      "clientWidth": 56,
+      "color": "rgb(15, 23, 41)",
+      "height": 56,
+      "outline": "rgb(15, 23, 41) none 3px",
+      "scrollWidth": 56,
+      "width": 56,
+      "x": 671.5546875,
+      "y": 271.75,
+      "zoom": "1"
+    },
+    "panel": {
+      "bg": "rgb(255, 255, 255)",
+      "clientWidth": 415,
+      "color": "rgb(15, 23, 41)",
+      "height": 800,
+      "outline": "rgb(15, 23, 41) none 3px",
+      "scrollWidth": 415,
+      "width": 416,
+      "x": 864,
+      "y": 0,
+      "zoom": "1"
+    },
+    "status": "{\n  \"ua\": \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36\",\n  \"viewport\": {\n    \"width\": 1280,\n    \"height\": 800,\n    \"dpr\": 1\n  },\n  \"tokens\": \"HSL-components\",\n  \"reduceMotionSystem\": false,\n  \"settings\": null,\n  \"position\": \"{\\\"x\\\":671.5584716796875,\\\"y\\\":271.75379180908203}\",\n  \"focus\": \"إيقاف مؤقت\",\n  \"media\": [\n    {\n      \"id\": \"demo-audio\",\n      \"muted\": false\n    },\n    {\n      \"id\": \"demo-video\",\n      \"muted\": false\n    }\n  ],\n  \"speech\": {\n    \"speaking\": true,\n    \"pending\": false,\n    \"paused\": false,\n    \"arabicVoices\": [\n      {\n        \"name\": \"Majed\",\n        \"lang\": \"ar-001\",\n        \"local\": true\n      }\n    ]\n  }\n}",
+    "viewport": {
+      "dpr": 1,
+      "height": 800,
+      "width": 1280
+    }
+  },
+  {
+    "label": "Native-resume",
+    "focus": "إيقاف مؤقت",
+    "guide": null,
+    "inside": true,
+    "launcher": {
+      "bg": "rgb(255, 255, 255)",
+      "clientWidth": 56,
+      "color": "rgb(15, 23, 41)",
+      "height": 56,
+      "outline": "rgb(15, 23, 41) none 3px",
+      "scrollWidth": 56,
+      "width": 56,
+      "x": 671.5546875,
+      "y": 271.75,
+      "zoom": "1"
+    },
+    "panel": {
+      "bg": "rgb(255, 255, 255)",
+      "clientWidth": 415,
+      "color": "rgb(15, 23, 41)",
+      "height": 800,
+      "outline": "rgb(15, 23, 41) none 3px",
+      "scrollWidth": 415,
+      "width": 416,
+      "x": 864,
+      "y": 0,
+      "zoom": "1"
+    },
+    "status": "{\n  \"ua\": \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36\",\n  \"viewport\": {\n    \"width\": 1280,\n    \"height\": 800,\n    \"dpr\": 1\n  },\n  \"tokens\": \"HSL-components\",\n  \"reduceMotionSystem\": false,\n  \"settings\": null,\n  \"position\": \"{\\\"x\\\":671.5584716796875,\\\"y\\\":271.75379180908203}\",\n  \"focus\": \"إيقاف مؤقت\",\n  \"media\": [\n    {\n      \"id\": \"demo-audio\",\n      \"muted\": false\n    },\n    {\n      \"id\": \"demo-video\",\n      \"muted\": false\n    }\n  ],\n  \"speech\": {\n    \"speaking\": true,\n    \"pending\": false,\n    \"paused\": false,\n    \"arabicVoices\": [\n      {\n        \"name\": \"Majed\",\n        \"lang\": \"ar-001\",\n        \"local\": true\n      }\n    ]\n  }\n}",
+    "viewport": {
+      "dpr": 1,
+      "height": 800,
+      "width": 1280
+    }
+  },
+  {
+    "label": "Native-stop",
+    "focus": "صفحة اختبار عربية معزولةنصوص تجريبية عامة — لا بيانات شخصية ",
+    "guide": null,
+    "inside": false,
+    "launcher": {
+      "bg": "rgb(255, 255, 255)",
+      "clientWidth": 56,
+      "color": "rgb(15, 23, 41)",
+      "height": 56,
+      "outline": "rgb(15, 23, 41) none 3px",
+      "scrollWidth": 56,
+      "width": 56,
+      "x": 671.5546875,
+      "y": 271.75,
+      "zoom": "1"
+    },
+    "panel": {
+      "bg": "rgb(255, 255, 255)",
+      "clientWidth": 415,
+      "color": "rgb(15, 23, 41)",
+      "height": 800,
+      "outline": "rgb(15, 23, 41) none 3px",
+      "scrollWidth": 415,
+      "width": 416,
+      "x": 864,
+      "y": 0,
+      "zoom": "1"
+    },
+    "status": "{\n  \"ua\": \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36\",\n  \"viewport\": {\n    \"width\": 1280,\n    \"height\": 800,\n    \"dpr\": 1\n  },\n  \"tokens\": \"HSL-components\",\n  \"reduceMotionSystem\": false,\n  \"settings\": null,\n  \"position\": \"{\\\"x\\\":671.5584716796875,\\\"y\\\":271.75379180908203}\",\n  \"focus\": \"إيقاف مؤقت\",\n  \"media\": [\n    {\n      \"id\": \"demo-audio\",\n      \"muted\": false\n    },\n    {\n      \"id\": \"demo-video\",\n      \"muted\": false\n    }\n  ],\n  \"speech\": {\n    \"speaking\": true,\n    \"pending\": false,\n    \"paused\": false,\n    \"arabicVoices\": [\n      {\n        \"name\": \"Majed\",\n        \"lang\": \"ar-001\",\n        \"local\": true\n      }\n    ]\n  }\n}",
+    "viewport": {
+      "dpr": 1,
+      "height": 800,
+      "width": 1280
+    }
+  },
+  {
+    "label": "Full-token-contrast-final",
+    "focus": "تباين عالٍ",
+    "guide": null,
+    "inside": true,
+    "launcher": {
+      "bg": "rgb(255, 255, 255)",
+      "clientWidth": 56,
+      "color": "rgb(15, 23, 42)",
+      "height": 56,
+      "outline": "rgb(15, 23, 42) none 3px",
+      "scrollWidth": 56,
+      "width": 56,
+      "x": 671.5546875,
+      "y": 271.75,
+      "zoom": "1"
+    },
+    "panel": {
+      "bg": "rgb(255, 255, 255)",
+      "clientWidth": 415,
+      "color": "rgb(15, 23, 42)",
+      "height": 800,
+      "outline": "rgb(15, 23, 42) none 3px",
+      "scrollWidth": 415,
+      "width": 416,
+      "x": 864,
+      "y": 0,
+      "zoom": "1"
+    },
+    "status": "{\n  \"ua\": \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36\",\n  \"viewport\": {\n    \"width\": 1280,\n    \"height\": 800,\n    \"dpr\": 1\n  },\n  \"tokens\": \"full-colour\",\n  \"reduceMotionSystem\": false,\n  \"settings\": \"{\\\"fontScale\\\":100,\\\"letterSpacing\\\":0,\\\"wordSpacing\\\":0,\\\"lineHeight\\\":0,\\\"colorFilter\\\":\\\"none\\\",\\\"darkMode\\\":false,\\\"pageZoom\\\":100,\\\"profileId\\\":null,\\\"highContrast\\\":true,\\\"smartContrast\\\":false,\\\"monochrome\\\":false,\\\"lowSaturation\\\":false,\\\"highSaturation\\\":false,\\\"readableFont\\\":false,\\\"dyslexiaFont\\\":false,\\\"highlightTitles\\\":false,\\\"underlineLinks\\\":false,\\\"justifyText\\\":false,\\\"bigCursor\\\":false,\\\"bigCursorLight\\\":false,\\\"readingGuide\\\":false,\\\"readingMask\\\":false,\\\"hideImages\\\":false,\\\"muteSounds\\\":false,\\\"reduceMotion\\\":false,\\\"highlightHover\\\":false,\\\"highlightFocus\\\":false,\\\"textToSpeech\\\":false}\",\n  \"position\": \"{\\\"x\\\":671.5584716796875,\\\"y\\\":271.75379180908203}\",\n  \"focus\": \"تباين عالٍ\",\n  \"media\": [\n    {\n      \"id\": \"demo-audio\",\n      \"muted\": false\n    },\n    {\n      \"id\": \"demo-video\",\n      \"muted\": false\n    }\n  ],\n  \"speech\": {\n    \"speaking\": false,\n    \"pending\": false,\n    \"paused\": false,\n    \"arabicVoices\": [\n      {\n        \"name\": \"Majed\",\n        \"lang\": \"ar-001\",\n        \"local\": true\n      }\n    ]\n  }\n}",
+    "viewport": {
+      "dpr": 1,
+      "height": 800,
+      "width": 1280
+    }
+  },
+  {
+    "label": "Stop-focus-after-fix",
+    "focus": "صفحة اختبار عربية معزولةنصوص تجريبية عامة — لا بيانات شخصية ",
+    "guide": null,
+    "inside": false,
+    "launcher": {
+      "bg": "rgb(255, 255, 255)",
+      "clientWidth": 56,
+      "color": "rgb(15, 23, 42)",
+      "height": 56,
+      "outline": "rgb(15, 23, 42) none 3px",
+      "scrollWidth": 56,
+      "width": 56,
+      "x": 671.5546875,
+      "y": 271.75,
+      "zoom": "1"
+    },
+    "panel": {
+      "bg": "rgb(255, 255, 255)",
+      "clientWidth": 415,
+      "color": "rgb(15, 23, 42)",
+      "height": 800,
+      "outline": "rgb(15, 23, 42) none 3px",
+      "scrollWidth": 415,
+      "width": 416,
+      "x": 864,
+      "y": 0,
+      "zoom": "1"
+    },
+    "status": "{\n  \"ua\": \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36\",\n  \"viewport\": {\n    \"width\": 1280,\n    \"height\": 800,\n    \"dpr\": 1\n  },\n  \"tokens\": \"full-colour\",\n  \"reduceMotionSystem\": false,\n  \"settings\": null,\n  \"position\": \"{\\\"x\\\":671.5584716796875,\\\"y\\\":271.75379180908203}\",\n  \"focus\": \"صفحة اختبار عربية معزولةنصوص تجريبية عامة — لا بيانات شخصية ولا اتصال بحسابات.المحتوىنموذج\",\n  \"media\": [\n    {\n      \"id\": \"demo-audio\",\n      \"muted\": false\n    },\n    {\n      \"id\": \"demo-video\",\n      \"muted\": false\n    }\n  ],\n  \"speech\": {\n    \"speaking\": false,\n    \"pending\": false,\n    \"paused\": false,\n    \"arabicVoices\": [\n      {\n        \"name\": \"Majed\",\n        \"lang\": \"ar-001\",\n        \"local\": true\n      }\n    ]\n  }\n}",
+    "viewport": {
+      "dpr": 1,
+      "height": 800,
+      "width": 1280
+    }
+  },
+  {
+    "label": "Stop-focus-final-verified",
+    "focus": "إغلاق أدوات سهولة الوصول",
+    "guide": null,
+    "inside": true,
+    "launcher": {
+      "bg": "rgb(255, 255, 255)",
+      "clientWidth": 56,
+      "color": "rgb(15, 23, 42)",
+      "height": 56,
+      "outline": "rgb(15, 23, 42) none 3px",
+      "scrollWidth": 56,
+      "width": 56,
+      "x": 671.5546875,
+      "y": 271.75,
+      "zoom": "1"
+    },
+    "panel": {
+      "bg": "rgb(255, 255, 255)",
+      "clientWidth": 415,
+      "color": "rgb(15, 23, 42)",
+      "height": 811,
+      "outline": "rgb(15, 23, 42) none 3px",
+      "scrollWidth": 415,
+      "width": 416,
+      "x": 1040,
+      "y": 0,
+      "zoom": "1"
+    },
+    "status": "{\n  \"ua\": \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36\",\n  \"viewport\": {\n    \"width\": 1456,\n    \"height\": 811,\n    \"dpr\": 2\n  },\n  \"tokens\": \"full-colour\",\n  \"reduceMotionSystem\": false,\n  \"settings\": null,\n  \"position\": \"{\\\"x\\\":671.5584716796875,\\\"y\\\":271.75379180908203}\",\n  \"focus\": \"إغلاق أدوات سهولة الوصول\",\n  \"media\": [\n    {\n      \"id\": \"demo-audio\",\n      \"muted\": false\n    },\n    {\n      \"id\": \"demo-video\",\n      \"muted\": false\n    }\n  ],\n  \"speech\": {\n    \"speaking\": false,\n    \"pending\": false,\n    \"paused\": false,\n    \"arabicVoices\": [\n      {\n        \"name\": \"Majed\",\n        \"lang\": \"ar-001\",\n        \"local\": true\n      }\n    ]\n  }\n}",
+    "viewport": {
+      "dpr": 2,
+      "height": 811,
+      "width": 1456
+    }
+  },
+  {
+    "label": "Native-Chrome-200-final",
+    "focus": "إغلاق أدوات سهولة الوصول",
+    "guide": null,
+    "inside": true,
+    "launcher": {
+      "bg": "rgb(255, 255, 255)",
+      "clientWidth": 56,
+      "color": "rgb(15, 23, 42)",
+      "height": 56,
+      "outline": "rgb(15, 23, 42) none 3px",
+      "scrollWidth": 56,
+      "width": 56,
+      "x": 664,
+      "y": 271.75,
+      "zoom": "1"
+    },
+    "panel": {
+      "bg": "rgb(255, 255, 255)",
+      "clientWidth": 415,
+      "color": "rgb(15, 23, 42)",
+      "height": 405.5,
+      "outline": "rgb(15, 23, 42) none 3px",
+      "scrollWidth": 415,
+      "width": 416,
+      "x": 312,
+      "y": 0,
+      "zoom": "1"
+    },
+    "status": "{\n  \"ua\": \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36\",\n  \"viewport\": {\n    \"width\": 728,\n    \"height\": 405,\n    \"dpr\": 4\n  },\n  \"tokens\": \"full-colour\",\n  \"reduceMotionSystem\": false,\n  \"settings\": null,\n  \"position\": \"{\\\"x\\\":664,\\\"y\\\":271.75379180908203}\",\n  \"focus\": \"إغلاق أدوات سهولة الوصول\",\n  \"media\": [\n    {\n      \"id\": \"demo-audio\",\n      \"muted\": false\n    },\n    {\n      \"id\": \"demo-video\",\n      \"muted\": false\n    }\n  ],\n  \"speech\": {\n    \"speaking\": false,\n    \"pending\": false,\n    \"paused\": false,\n    \"arabicVoices\": [\n      {\n        \"name\": \"Majed\",\n        \"lang\": \"ar-001\",\n        \"local\": true\n      }\n    ]\n  }\n}",
+    "viewport": {
+      "dpr": 4,
+      "height": 405,
+      "width": 728
+    }
+  },
+  {
+    "label": "Native-Chrome-400-final",
+    "focus": "إغلاق أدوات سهولة الوصول",
+    "guide": null,
+    "inside": true,
+    "launcher": {
+      "bg": "rgb(255, 255, 255)",
+      "clientWidth": 56,
+      "color": "rgb(15, 23, 42)",
+      "height": 56,
+      "outline": "rgb(15, 23, 42) none 3px",
+      "scrollWidth": 56,
+      "width": 56,
+      "x": 300,
+      "y": 138,
+      "zoom": "1"
+    },
+    "panel": {
+      "bg": "rgb(255, 255, 255)",
+      "clientWidth": 363,
+      "color": "rgb(15, 23, 42)",
+      "height": 202.75,
+      "outline": "rgb(15, 23, 42) none 3px",
+      "scrollWidth": 363,
+      "width": 364,
+      "x": 0,
+      "y": 0,
+      "zoom": "1"
+    },
+    "status": "{\n  \"ua\": \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36\",\n  \"viewport\": {\n    \"width\": 364,\n    \"height\": 202,\n    \"dpr\": 8\n  },\n  \"tokens\": \"full-colour\",\n  \"reduceMotionSystem\": false,\n  \"settings\": null,\n  \"position\": \"{\\\"x\\\":300,\\\"y\\\":138}\",\n  \"focus\": \"إغلاق أدوات سهولة الوصول\",\n  \"media\": [\n    {\n      \"id\": \"demo-audio\",\n      \"muted\": false\n    },\n    {\n      \"id\": \"demo-video\",\n      \"muted\": false\n    }\n  ],\n  \"speech\": {\n    \"speaking\": false,\n    \"pending\": false,\n    \"paused\": false,\n    \"arabicVoices\": [\n      {\n        \"name\": \"Majed\",\n        \"lang\": \"ar-001\",\n        \"local\": true\n      }\n    ]\n  }\n}",
+    "viewport": {
+      "dpr": 8,
+      "height": 202,
+      "width": 364
+    }
+  },
+  {
+    "label": "Native-Chrome-100-restored",
+    "focus": "إغلاق أدوات سهولة الوصول",
+    "guide": null,
+    "inside": true,
+    "launcher": {
+      "bg": "rgb(255, 255, 255)",
+      "clientWidth": 56,
+      "color": "rgb(15, 23, 42)",
+      "height": 56,
+      "outline": "rgb(15, 23, 42) none 3px",
+      "scrollWidth": 56,
+      "width": 56,
+      "x": 300,
+      "y": 138,
+      "zoom": "1"
+    },
+    "panel": {
+      "bg": "rgb(255, 255, 255)",
+      "clientWidth": 415,
+      "color": "rgb(15, 23, 42)",
+      "height": 811,
+      "outline": "rgb(15, 23, 42) none 3px",
+      "scrollWidth": 415,
+      "width": 416,
+      "x": 1040,
+      "y": 0,
+      "zoom": "1"
+    },
+    "status": "{\n  \"ua\": \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36\",\n  \"viewport\": {\n    \"width\": 1456,\n    \"height\": 811,\n    \"dpr\": 2\n  },\n  \"tokens\": \"full-colour\",\n  \"reduceMotionSystem\": false,\n  \"settings\": null,\n  \"position\": \"{\\\"x\\\":300,\\\"y\\\":138}\",\n  \"focus\": \"إغلاق أدوات سهولة الوصول\",\n  \"media\": [\n    {\n      \"id\": \"demo-audio\",\n      \"muted\": false\n    },\n    {\n      \"id\": \"demo-video\",\n      \"muted\": false\n    }\n  ],\n  \"speech\": {\n    \"speaking\": false,\n    \"pending\": false,\n    \"paused\": false,\n    \"arabicVoices\": [\n      {\n        \"name\": \"Majed\",\n        \"lang\": \"ar-001\",\n        \"local\": true\n      }\n    ]\n  }\n}",
+    "viewport": {
+      "dpr": 2,
+      "height": 811,
+      "width": 1456
+    }
+  },
+  {
+    "label": "OS-reduced-motion-true",
+    "focus": "إغلاق أدوات سهولة الوصول",
+    "guide": null,
+    "inside": true,
+    "launcher": {
+      "bg": "rgb(255, 255, 255)",
+      "clientWidth": 56,
+      "color": "rgb(15, 23, 42)",
+      "height": 56,
+      "outline": "rgb(15, 23, 42) none 3px",
+      "scrollWidth": 56,
+      "width": 56,
+      "x": 300,
+      "y": 138,
+      "zoom": "1"
+    },
+    "panel": {
+      "bg": "rgb(255, 255, 255)",
+      "clientWidth": 415,
+      "color": "rgb(15, 23, 42)",
+      "height": 811,
+      "outline": "rgb(15, 23, 42) none 3px",
+      "scrollWidth": 415,
+      "width": 416,
+      "x": 1040,
+      "y": 0,
+      "zoom": "1"
+    },
+    "status": "{\n  \"ua\": \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36\",\n  \"viewport\": {\n    \"width\": 1456,\n    \"height\": 811,\n    \"dpr\": 2\n  },\n  \"tokens\": \"full-colour\",\n  \"reduceMotionSystem\": true,\n  \"settings\": null,\n  \"position\": \"{\\\"x\\\":300,\\\"y\\\":138}\",\n  \"focus\": \"إغلاق أدوات سهولة الوصول\",\n  \"media\": [\n    {\n      \"id\": \"demo-audio\",\n      \"muted\": false\n    },\n    {\n      \"id\": \"demo-video\",\n      \"muted\": false\n    }\n  ],\n  \"speech\": {\n    \"speaking\": false,\n    \"pending\": false,\n    \"paused\": false,\n    \"arabicVoices\": [\n      {\n        \"name\": \"Majed\",\n        \"lang\": \"ar-001\",\n        \"local\": true\n      }\n    ]\n  }\n}",
+    "viewport": {
+      "dpr": 2,
+      "height": 811,
+      "width": 1456
+    }
+  },
+  {
+    "label": "Tab-launcher-final",
+    "focus": "أدوات سهولة الوصول",
+    "guide": null,
+    "inside": false,
+    "launcher": {
+      "bg": "rgb(255, 255, 255)",
+      "clientWidth": 56,
+      "color": "rgb(15, 23, 42)",
+      "height": 56,
+      "outline": "rgb(29, 78, 216) solid 4px",
+      "scrollWidth": 56,
+      "width": 56,
+      "x": 300,
+      "y": 138,
+      "zoom": "1"
+    },
+    "panel": null,
+    "status": "{\n  \"ua\": \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36\",\n  \"viewport\": {\n    \"width\": 1456,\n    \"height\": 811,\n    \"dpr\": 2\n  },\n  \"tokens\": \"full-colour\",\n  \"reduceMotionSystem\": false,\n  \"settings\": null,\n  \"position\": \"{\\\"x\\\":300,\\\"y\\\":138}\",\n  \"focus\": \"أدوات سهولة الوصول\",\n  \"media\": [\n    {\n      \"id\": \"demo-audio\",\n      \"muted\": false\n    },\n    {\n      \"id\": \"demo-video\",\n      \"muted\": false\n    }\n  ],\n  \"speech\": {\n    \"speaking\": false,\n    \"pending\": false,\n    \"paused\": false,\n    \"arabicVoices\": [\n      {\n        \"name\": \"Majed\",\n        \"lang\": \"ar-001\",\n        \"local\": true\n      }\n    ]\n  }\n}",
+    "viewport": {
+      "dpr": 2,
+      "height": 811,
+      "width": 1456
+    }
+  },
+  {
+    "label": "Pointer-open-final",
+    "focus": "إغلاق أدوات سهولة الوصول",
+    "guide": null,
+    "inside": true,
+    "launcher": {
+      "bg": "rgb(255, 255, 255)",
+      "clientWidth": 56,
+      "color": "rgb(15, 23, 42)",
+      "height": 56,
+      "outline": "rgb(15, 23, 42) none 3px",
+      "scrollWidth": 56,
+      "width": 56,
+      "x": 300,
+      "y": 138,
+      "zoom": "1"
+    },
+    "panel": {
+      "bg": "rgb(255, 255, 255)",
+      "clientWidth": 415,
+      "color": "rgb(15, 23, 42)",
+      "height": 811,
+      "outline": "rgb(15, 23, 42) none 3px",
+      "scrollWidth": 415,
+      "width": 416,
+      "x": 1040,
+      "y": 0,
+      "zoom": "1"
+    },
+    "status": "{\n  \"ua\": \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36\",\n  \"viewport\": {\n    \"width\": 1456,\n    \"height\": 811,\n    \"dpr\": 2\n  },\n  \"tokens\": \"full-colour\",\n  \"reduceMotionSystem\": false,\n  \"settings\": null,\n  \"position\": \"{\\\"x\\\":300,\\\"y\\\":138}\",\n  \"focus\": \"إغلاق أدوات سهولة الوصول\",\n  \"media\": [\n    {\n      \"id\": \"demo-audio\",\n      \"muted\": false\n    },\n    {\n      \"id\": \"demo-video\",\n      \"muted\": false\n    }\n  ],\n  \"speech\": {\n    \"speaking\": false,\n    \"pending\": false,\n    \"paused\": false,\n    \"arabicVoices\": [\n      {\n        \"name\": \"Majed\",\n        \"lang\": \"ar-001\",\n        \"local\": true\n      }\n    ]\n  }\n}",
+    "viewport": {
+      "dpr": 2,
+      "height": 811,
+      "width": 1456
+    }
+  },
+  {
+    "label": "Keyboard-A-plus-final",
+    "focus": "A+",
+    "guide": null,
+    "inside": true,
+    "launcher": {
+      "bg": "rgb(255, 255, 255)",
+      "clientWidth": 67,
+      "color": "rgb(15, 23, 42)",
+      "height": 67.1953125,
+      "outline": "rgb(15, 23, 42) none 3px",
+      "scrollWidth": 67,
+      "width": 67.1953125,
+      "x": 300,
+      "y": 138,
+      "zoom": "1"
+    },
+    "panel": {
+      "bg": "rgb(255, 255, 255)",
+      "clientWidth": 498,
+      "color": "rgb(15, 23, 42)",
+      "height": 811,
+      "outline": "rgb(15, 23, 42) none 3px",
+      "scrollWidth": 498,
+      "width": 499.1953125,
+      "x": 956.8046875,
+      "y": 0,
+      "zoom": "1"
+    },
+    "status": "{\n  \"ua\": \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36\",\n  \"viewport\": {\n    \"width\": 1456,\n    \"height\": 811,\n    \"dpr\": 2\n  },\n  \"tokens\": \"full-colour\",\n  \"reduceMotionSystem\": false,\n  \"settings\": \"{\\\"fontScale\\\":120,\\\"letterSpacing\\\":0,\\\"wordSpacing\\\":0,\\\"lineHeight\\\":0,\\\"colorFilter\\\":\\\"none\\\",\\\"darkMode\\\":false,\\\"pageZoom\\\":100,\\\"profileId\\\":null,\\\"highContrast\\\":false,\\\"smartContrast\\\":false,\\\"monochrome\\\":false,\\\"lowSaturation\\\":false,\\\"highSaturation\\\":false,\\\"readableFont\\\":false,\\\"dyslexiaFont\\\":false,\\\"highlightTitles\\\":false,\\\"underlineLinks\\\":false,\\\"justifyText\\\":false,\\\"bigCursor\\\":false,\\\"bigCursorLight\\\":false,\\\"readingGuide\\\":false,\\\"readingMask\\\":false,\\\"hideImages\\\":false,\\\"muteSounds\\\":false,\\\"reduceMotion\\\":false,\\\"highlightHover\\\":false,\\\"highlightFocus\\\":false,\\\"textToSpeech\\\":false}\",\n  \"position\": \"{\\\"x\\\":300,\\\"y\\\":138}\",\n  \"focus\": \"A+\",\n  \"media\": [\n    {\n      \"id\": \"demo-audio\",\n      \"muted\": false\n    },\n    {\n      \"id\": \"demo-video\",\n      \"muted\": false\n    }\n  ],\n  \"speech\": {\n    \"speaking\": false,\n    \"pending\": false,\n    \"paused\": false,\n    \"arabicVoices\": [\n      {\n        \"name\": \"Majed\",\n        \"lang\": \"ar-001\",\n        \"local\": true\n      }\n    ]\n  }\n}",
+    "viewport": {
+      "dpr": 2,
+      "height": 811,
+      "width": 1456
+    }
+  },
+  {
+    "label": "Backdrop-close-final",
+    "focus": "أدوات سهولة الوصول",
+    "guide": null,
+    "inside": false,
+    "launcher": {
+      "bg": "rgb(255, 255, 255)",
+      "clientWidth": 67,
+      "color": "rgb(15, 23, 42)",
+      "height": 67.1953125,
+      "outline": "rgb(29, 78, 216) solid 4px",
+      "scrollWidth": 67,
+      "width": 67.1953125,
+      "x": 300,
+      "y": 138,
+      "zoom": "1"
+    },
+    "panel": null,
+    "status": "{\n  \"ua\": \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36\",\n  \"viewport\": {\n    \"width\": 1456,\n    \"height\": 811,\n    \"dpr\": 2\n  },\n  \"tokens\": \"full-colour\",\n  \"reduceMotionSystem\": false,\n  \"settings\": \"{\\\"fontScale\\\":120,\\\"letterSpacing\\\":0,\\\"wordSpacing\\\":0,\\\"lineHeight\\\":0,\\\"colorFilter\\\":\\\"none\\\",\\\"darkMode\\\":false,\\\"pageZoom\\\":100,\\\"profileId\\\":null,\\\"highContrast\\\":false,\\\"smartContrast\\\":false,\\\"monochrome\\\":false,\\\"lowSaturation\\\":false,\\\"highSaturation\\\":false,\\\"readableFont\\\":false,\\\"dyslexiaFont\\\":false,\\\"highlightTitles\\\":false,\\\"underlineLinks\\\":false,\\\"justifyText\\\":false,\\\"bigCursor\\\":false,\\\"bigCursorLight\\\":false,\\\"readingGuide\\\":false,\\\"readingMask\\\":false,\\\"hideImages\\\":false,\\\"muteSounds\\\":false,\\\"reduceMotion\\\":false,\\\"highlightHover\\\":false,\\\"highlightFocus\\\":false,\\\"textToSpeech\\\":false}\",\n  \"position\": \"{\\\"x\\\":300,\\\"y\\\":138}\",\n  \"focus\": \"أدوات سهولة الوصول\",\n  \"media\": [\n    {\n      \"id\": \"demo-audio\",\n      \"muted\": false\n    },\n    {\n      \"id\": \"demo-video\",\n      \"muted\": false\n    }\n  ],\n  \"speech\": {\n    \"speaking\": false,\n    \"pending\": false,\n    \"paused\": false,\n    \"arabicVoices\": [\n      {\n        \"name\": \"Majed\",\n        \"lang\": \"ar-001\",\n        \"local\": true\n      }\n    ]\n  }\n}",
+    "viewport": {
+      "dpr": 2,
+      "height": 811,
+      "width": 1456
+    }
+  },
+  {
+    "label": "Preference-reload-final",
+    "focus": "إغلاق أدوات سهولة الوصول",
+    "guide": null,
+    "inside": true,
+    "launcher": {
+      "bg": "rgb(255, 255, 255)",
+      "clientWidth": 67,
+      "color": "rgb(15, 23, 42)",
+      "height": 67.1953125,
+      "outline": "rgb(15, 23, 42) none 3px",
+      "scrollWidth": 67,
+      "width": 67.1953125,
+      "x": 300,
+      "y": 138,
+      "zoom": "1"
+    },
+    "panel": {
+      "bg": "rgb(255, 255, 255)",
+      "clientWidth": 498,
+      "color": "rgb(15, 23, 42)",
+      "height": 811,
+      "outline": "rgb(15, 23, 42) none 3px",
+      "scrollWidth": 498,
+      "width": 499.1953125,
+      "x": 956.8046875,
+      "y": 0,
+      "zoom": "1"
+    },
+    "status": "{\n  \"ua\": \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36\",\n  \"viewport\": {\n    \"width\": 1456,\n    \"height\": 811,\n    \"dpr\": 2\n  },\n  \"tokens\": \"full-colour\",\n  \"reduceMotionSystem\": false,\n  \"settings\": \"{\\\"fontScale\\\":120,\\\"letterSpacing\\\":0,\\\"wordSpacing\\\":0,\\\"lineHeight\\\":0,\\\"colorFilter\\\":\\\"none\\\",\\\"darkMode\\\":false,\\\"pageZoom\\\":100,\\\"profileId\\\":null,\\\"highContrast\\\":false,\\\"smartContrast\\\":false,\\\"monochrome\\\":false,\\\"lowSaturation\\\":false,\\\"highSaturation\\\":false,\\\"readableFont\\\":false,\\\"dyslexiaFont\\\":false,\\\"highlightTitles\\\":false,\\\"underlineLinks\\\":false,\\\"justifyText\\\":false,\\\"bigCursor\\\":false,\\\"bigCursorLight\\\":false,\\\"readingGuide\\\":false,\\\"readingMask\\\":false,\\\"hideImages\\\":false,\\\"muteSounds\\\":false,\\\"reduceMotion\\\":true,\\\"highlightHover\\\":false,\\\"highlightFocus\\\":false,\\\"textToSpeech\\\":false}\",\n  \"position\": \"{\\\"x\\\":300,\\\"y\\\":138}\",\n  \"focus\": \"إغلاق أدوات سهولة الوصول\",\n  \"media\": [\n    {\n      \"id\": \"demo-audio\",\n      \"muted\": false\n    },\n    {\n      \"id\": \"demo-video\",\n      \"muted\": false\n    }\n  ],\n  \"speech\": {\n    \"speaking\": false,\n    \"pending\": false,\n    \"paused\": false,\n    \"arabicVoices\": [\n      {\n        \"name\": \"Majed\",\n        \"lang\": \"ar-001\",\n        \"local\": true\n      }\n    ]\n  }\n}",
+    "viewport": {
+      "dpr": 2,
+      "height": 811,
+      "width": 1456
+    }
+  },
+  {
+    "label": "Reset-reload-final",
+    "focus": "صفحة اختبار عربية معزولةنصوص تجريبية عامة — لا بيانات شخصية ",
+    "guide": null,
+    "inside": false,
+    "launcher": {
+      "bg": "rgb(255, 255, 255)",
+      "clientWidth": 56,
+      "color": "rgb(15, 23, 42)",
+      "height": 56,
+      "outline": "rgb(15, 23, 42) none 3px",
+      "scrollWidth": 56,
+      "width": 56,
+      "x": 300,
+      "y": 138,
+      "zoom": "1"
+    },
+    "panel": null,
+    "status": "{\n  \"ua\": \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36\",\n  \"viewport\": {\n    \"width\": 1456,\n    \"height\": 811,\n    \"dpr\": 2\n  },\n  \"tokens\": \"full-colour\",\n  \"reduceMotionSystem\": false,\n  \"settings\": null,\n  \"position\": \"{\\\"x\\\":300,\\\"y\\\":138}\",\n  \"focus\": \"صفحة اختبار عربية معزولةنصوص تجريبية عامة — لا بيانات شخصية ولا اتصال بحسابات.المحتوىنموذج\",\n  \"media\": [\n    {\n      \"id\": \"demo-audio\",\n      \"muted\": false\n    },\n    {\n      \"id\": \"demo-video\",\n      \"muted\": false\n    }\n  ],\n  \"speech\": {\n    \"speaking\": false,\n    \"pending\": false,\n    \"paused\": false,\n    \"arabicVoices\": [\n      {\n        \"name\": \"Majed\",\n        \"lang\": \"ar-001\",\n        \"local\": true\n      }\n    ]\n  }\n}",
+    "viewport": {
+      "dpr": 2,
+      "height": 811,
+      "width": 1456
+    }
+  },
+  {
+    "label": "ADHD-final-keyboard",
+    "focus": "نموذج تجريبي",
+    "guide": {
+      "bg": "rgb(29, 78, 216)",
+      "clientWidth": 1456,
+      "color": "rgb(15, 23, 42)",
+      "height": 4,
+      "outline": "rgb(15, 23, 42) none 3px",
+      "scrollWidth": 1456,
+      "width": 1456,
+      "x": 0,
+      "y": 116.7890625,
+      "zoom": "1"
+    },
+    "inside": false,
+    "launcher": {
+      "bg": "rgb(255, 255, 255)",
+      "clientWidth": 56,
+      "color": "rgb(15, 23, 42)",
+      "height": 56,
+      "outline": "rgb(15, 23, 42) none 3px",
+      "scrollWidth": 56,
+      "width": 56,
+      "x": 211.203125,
+      "y": 138,
+      "zoom": "1"
+    },
+    "panel": null,
+    "status": "{\n  \"ua\": \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36\",\n  \"viewport\": {\n    \"width\": 1456,\n    \"height\": 811,\n    \"dpr\": 2\n  },\n  \"tokens\": \"full-colour\",\n  \"reduceMotionSystem\": false,\n  \"settings\": \"{\\\"fontScale\\\":100,\\\"letterSpacing\\\":0,\\\"wordSpacing\\\":0,\\\"lineHeight\\\":0,\\\"colorFilter\\\":\\\"none\\\",\\\"darkMode\\\":false,\\\"pageZoom\\\":100,\\\"profileId\\\":\\\"adhd\\\",\\\"highContrast\\\":false,\\\"smartContrast\\\":false,\\\"monochrome\\\":false,\\\"lowSaturation\\\":false,\\\"highSaturation\\\":false,\\\"readableFont\\\":false,\\\"dyslexiaFont\\\":false,\\\"highlightTitles\\\":false,\\\"underlineLinks\\\":false,\\\"justifyText\\\":false,\\\"bigCursor\\\":false,\\\"bigCursorLight\\\":false,\\\"readingGuide\\\":true,\\\"readingMask\\\":false,\\\"hideImages\\\":false,\\\"muteSounds\\\":false,\\\"reduceMotion\\\":true,\\\"highlightHover\\\":false,\\\"highlightFocus\\\":false,\\\"textToSpeech\\\":false}\",\n  \"position\": \"{\\\"x\\\":211.203125,\\\"y\\\":138}\",\n  \"focus\": \"المحتوى\",\n  \"media\": [\n    {\n      \"id\": \"demo-audio\",\n      \"muted\": false\n    },\n    {\n      \"id\": \"demo-video\",\n      \"muted\": false\n    }\n  ],\n  \"speech\": {\n    \"speaking\": false,\n    \"pending\": false,\n    \"paused\": false,\n    \"arabicVoices\": [\n      {\n        \"name\": \"Majed\",\n        \"lang\": \"ar-001\",\n        \"local\": true\n      }\n    ]\n  }\n}",
+    "viewport": {
+      "dpr": 2,
+      "height": 811,
+      "width": 1456
+    }
+  },
+  {
+    "label": "ADHD-pointer-final",
+    "focus": "هذا نص طويل لاختبار القراءة الصوتية العربية. نستطيع تحديد ال",
+    "guide": {
+      "bg": "rgb(29, 78, 216)",
+      "clientWidth": 1456,
+      "color": "rgb(15, 23, 42)",
+      "height": 4,
+      "outline": "rgb(15, 23, 42) none 3px",
+      "scrollWidth": 1456,
+      "width": 1456,
+      "x": 0,
+      "y": 247.890625,
+      "zoom": "1"
+    },
+    "inside": false,
+    "launcher": {
+      "bg": "rgb(255, 255, 255)",
+      "clientWidth": 56,
+      "color": "rgb(15, 23, 42)",
+      "height": 56,
+      "outline": "rgb(15, 23, 42) none 3px",
+      "scrollWidth": 56,
+      "width": 56,
+      "x": 211.203125,
+      "y": 138,
+      "zoom": "1"
+    },
+    "panel": null,
+    "status": "{\n  \"ua\": \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36\",\n  \"viewport\": {\n    \"width\": 1456,\n    \"height\": 811,\n    \"dpr\": 2\n  },\n  \"tokens\": \"full-colour\",\n  \"reduceMotionSystem\": false,\n  \"settings\": \"{\\\"fontScale\\\":100,\\\"letterSpacing\\\":0,\\\"wordSpacing\\\":0,\\\"lineHeight\\\":0,\\\"colorFilter\\\":\\\"none\\\",\\\"darkMode\\\":false,\\\"pageZoom\\\":100,\\\"profileId\\\":\\\"adhd\\\",\\\"highContrast\\\":false,\\\"smartContrast\\\":false,\\\"monochrome\\\":false,\\\"lowSaturation\\\":false,\\\"highSaturation\\\":false,\\\"readableFont\\\":false,\\\"dyslexiaFont\\\":false,\\\"highlightTitles\\\":false,\\\"underlineLinks\\\":false,\\\"justifyText\\\":false,\\\"bigCursor\\\":false,\\\"bigCursorLight\\\":false,\\\"readingGuide\\\":true,\\\"readingMask\\\":false,\\\"hideImages\\\":false,\\\"muteSounds\\\":false,\\\"reduceMotion\\\":true,\\\"highlightHover\\\":false,\\\"highlightFocus\\\":false,\\\"textToSpeech\\\":false}\",\n  \"position\": \"{\\\"x\\\":211.203125,\\\"y\\\":138}\",\n  \"focus\": \"selection-text\",\n  \"media\": [\n    {\n      \"id\": \"demo-audio\",\n      \"muted\": false\n    },\n    {\n      \"id\": \"demo-video\",\n      \"muted\": false\n    }\n  ],\n  \"speech\": {\n    \"speaking\": false,\n    \"pending\": false,\n    \"paused\": false,\n    \"arabicVoices\": [\n      {\n        \"name\": \"Majed\",\n        \"lang\": \"ar-001\",\n        \"local\": true\n      }\n    ]\n  }\n}",
+    "viewport": {
+      "dpr": 2,
+      "height": 811,
+      "width": 1456
+    }
+  }
+]

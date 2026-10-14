@@ -1,0 +1,14 @@
+{
+  "vitest_passed": 15,
+  "vitest_total": 15,
+  "vite_build_exit": 0,
+  "typescript_component_strict_exit": 0,
+  "typescript_scope": "assets/AccessibilityToolbar.tsx; separate tsconfig.component.json, includes DOM/React definitions only",
+  "full_harness_tsc": "Not passed: missing Node declarations in test/build dependencies; component check separated rather than weakening it.",
+  "skill_quick_validate": "Skill is valid!",
+  "build_warnings": [
+    "use client ignored in Vite fixture (retained for Next.js integration)",
+    "fixture bundle >500 kB, contains local axe instrumentation"
+  ],
+  "source_preserved": true
+}

@@ -1,0 +1,128 @@
+[
+  {
+    "time": "2026-10-14T17:28:30.296Z",
+    "run": "v5-regression",
+    "type": "axe",
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "aria-valid-attr-value",
+        "nodes": [
+          {
+            "target": [
+              ".h-14"
+            ],
+            "summary": "Fix all of the following:\n  Unable to determine if aria-controls referenced ID exists on the page while using aria-haspopup: aria-controls=\"a11y-panel\""
+          }
+        ]
+      }
+    ],
+    "passes": 24,
+    "htmlClass": ""
+  },
+  {
+    "time": "2026-10-14T17:28:30.822Z",
+    "run": "v5-regression",
+    "type": "axe",
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "aria-valid-attr-value",
+        "nodes": [
+          {
+            "target": [
+              ".h-14"
+            ],
+            "summary": "Fix all of the following:\n  Unable to determine if aria-controls referenced ID exists on the page while using aria-haspopup: aria-controls=\"a11y-panel\""
+          }
+        ]
+      }
+    ],
+    "passes": 24,
+    "htmlClass": "a11y-contrast a11y-filter-active"
+  },
+  {
+    "time": "2026-10-14T17:28:31.287Z",
+    "run": "v5-regression",
+    "type": "axe",
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "aria-valid-attr-value",
+        "nodes": [
+          {
+            "target": [
+              ".h-14"
+            ],
+            "summary": "Fix all of the following:\n  Unable to determine if aria-controls referenced ID exists on the page while using aria-haspopup: aria-controls=\"a11y-panel\""
+          }
+        ]
+      }
+    ],
+    "passes": 24,
+    "htmlClass": "a11y-filter-active a11y-dark"
+  },
+  {
+    "time": "2026-10-14T17:28:32.040Z",
+    "run": "v5-full-tokens",
+    "type": "axe",
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "aria-valid-attr-value",
+        "nodes": [
+          {
+            "target": [
+              ".h-14"
+            ],
+            "summary": "Fix all of the following:\n  Unable to determine if aria-controls referenced ID exists on the page while using aria-haspopup: aria-controls=\"a11y-panel\""
+          }
+        ]
+      }
+    ],
+    "passes": 24,
+    "htmlClass": "full-tokens"
+  },
+  {
+    "time": "2026-10-14T17:28:32.502Z",
+    "run": "v5-full-tokens",
+    "type": "axe",
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "aria-valid-attr-value",
+        "nodes": [
+          {
+            "target": [
+              ".h-14"
+            ],
+            "summary": "Fix all of the following:\n  Unable to determine if aria-controls referenced ID exists on the page while using aria-haspopup: aria-controls=\"a11y-panel\""
+          }
+        ]
+      }
+    ],
+    "passes": 24,
+    "htmlClass": "full-tokens a11y-contrast a11y-filter-active"
+  },
+  {
+    "time": "2026-10-14T17:28:32.995Z",
+    "run": "v5-full-tokens",
+    "type": "axe",
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "aria-valid-attr-value",
+        "nodes": [
+          {
+            "target": [
+              ".h-14"
+            ],
+            "summary": "Fix all of the following:\n  Unable to determine if aria-controls referenced ID exists on the page while using aria-haspopup: aria-controls=\"a11y-panel\""
+          }
+        ]
+      }
+    ],
+    "passes": 24,
+    "htmlClass": "full-tokens a11y-filter-active a11y-dark"
+  }
+]

@@ -1,0 +1,611 @@
+[
+  {
+    "time": "2026-10-14T17:23:32.650Z",
+    "run": "v5-regression",
+    "type": "scrollIntoView",
+    "target": "إعادة الضبط",
+    "arg": {
+      "block": "center",
+      "inline": "nearest"
+    }
+  },
+  {
+    "time": "2026-10-14T17:23:32.690Z",
+    "run": "v5-regression",
+    "type": "speech-cancel"
+  },
+  {
+    "time": "2026-10-14T17:23:32.690Z",
+    "run": "v5-regression",
+    "type": "speech-cancel"
+  },
+  {
+    "time": "2026-10-14T17:23:32.713Z",
+    "run": "v5-regression",
+    "type": "scrollIntoView",
+    "target": "قراءة صوتية للنص المحدد",
+    "arg": {
+      "block": "center",
+      "inline": "nearest"
+    }
+  },
+  {
+    "time": "2026-10-14T17:23:32.981Z",
+    "run": "v5-regression",
+    "type": "scrollIntoView",
+    "target": "selection-text",
+    "arg": {
+      "block": "center",
+      "inline": "nearest",
+      "behavior": "instant"
+    }
+  },
+  {
+    "time": "2026-10-14T17:23:33.216Z",
+    "run": "v5-regression",
+    "type": "speech-cancel"
+  },
+  {
+    "time": "2026-10-14T17:23:33.217Z",
+    "run": "v5-regression",
+    "type": "speech-speak",
+    "text": "نكرر",
+    "lang": "ar-001",
+    "rate": 1
+  },
+  {
+    "time": "2026-10-14T17:23:33.248Z",
+    "run": "v5-regression",
+    "type": "utterance-start",
+    "text": "نكرر"
+  },
+  {
+    "time": "2026-10-14T17:23:34.079Z",
+    "run": "v5-regression",
+    "type": "utterance-end",
+    "text": "نكرر"
+  },
+  {
+    "time": "2026-10-14T17:23:34.120Z",
+    "run": "v5-regression",
+    "type": "scrollIntoView",
+    "target": "أدوات سهولة الوصول",
+    "arg": {
+      "block": "center",
+      "inline": "nearest"
+    }
+  },
+  {
+    "time": "2026-10-14T17:23:34.406Z",
+    "run": "v5-regression",
+    "type": "scrollIntoView",
+    "target": "إيقاف",
+    "arg": {
+      "block": "center",
+      "inline": "nearest"
+    }
+  },
+  {
+    "time": "2026-10-14T17:23:34.410Z",
+    "run": "v5-regression",
+    "type": "speech-cancel"
+  },
+  {
+    "time": "2026-10-14T17:23:34.421Z",
+    "run": "v5-regression",
+    "type": "scrollIntoView",
+    "target": "تشغيل",
+    "arg": {
+      "block": "center",
+      "inline": "nearest"
+    }
+  },
+  {
+    "time": "2026-10-14T17:23:34.425Z",
+    "run": "v5-regression",
+    "type": "speech-cancel"
+  },
+  {
+    "time": "2026-10-14T17:23:34.426Z",
+    "run": "v5-regression",
+    "type": "scrollIntoView",
+    "target": "قراءة عربية وتدفّق المحتوى",
+    "arg": {
+      "block": "center",
+      "behavior": "smooth"
+    }
+  },
+  {
+    "time": "2026-10-14T17:23:34.426Z",
+    "run": "v5-regression",
+    "type": "speech-speak",
+    "text": "قراءة عربية وتدفّق المحتوى",
+    "lang": "ar-001",
+    "rate": 1
+  },
+  {
+    "time": "2026-10-14T17:23:34.435Z",
+    "run": "v5-regression",
+    "type": "utterance-start",
+    "text": "قراءة عربية وتدفّق المحتوى"
+  },
+  {
+    "time": "2026-10-14T17:23:34.579Z",
+    "run": "v5-regression",
+    "type": "scrollIntoView",
+    "target": "إيقاف مؤقت",
+    "arg": {
+      "block": "center",
+      "inline": "nearest"
+    }
+  },
+  {
+    "time": "2026-10-14T17:23:34.583Z",
+    "run": "v5-regression",
+    "type": "speech-pause"
+  },
+  {
+    "time": "2026-10-14T17:23:34.593Z",
+    "run": "v5-regression",
+    "type": "utterance-pause",
+    "text": "قراءة عربية وتدفّق المحتوى"
+  },
+  {
+    "time": "2026-10-14T17:23:34.605Z",
+    "run": "v5-regression",
+    "type": "scrollIntoView",
+    "target": "متابعة",
+    "arg": {
+      "block": "center",
+      "inline": "nearest"
+    }
+  },
+  {
+    "time": "2026-10-14T17:23:34.608Z",
+    "run": "v5-regression",
+    "type": "speech-resume"
+  },
+  {
+    "time": "2026-10-14T17:23:34.616Z",
+    "run": "v5-regression",
+    "type": "utterance-resume",
+    "text": "قراءة عربية وتدفّق المحتوى"
+  },
+  {
+    "time": "2026-10-14T17:23:34.622Z",
+    "run": "v5-regression",
+    "type": "scrollIntoView",
+    "target": "إعادة الضبط",
+    "arg": {
+      "block": "center",
+      "inline": "nearest"
+    }
+  },
+  {
+    "time": "2026-10-14T17:23:34.625Z",
+    "run": "v5-regression",
+    "type": "speech-cancel"
+  },
+  {
+    "time": "2026-10-14T17:23:34.626Z",
+    "run": "v5-regression",
+    "type": "speech-cancel"
+  },
+  {
+    "time": "2026-10-14T17:23:34.634Z",
+    "run": "v5-regression",
+    "type": "utterance-error",
+    "error": "interrupted",
+    "text": "قراءة عربية وتدفّق المحتوى"
+  },
+  {
+    "time": "2026-10-14T17:23:34.640Z",
+    "run": "v5-regression",
+    "type": "scrollIntoView",
+    "target": "إيقاف المؤثرات الحركية",
+    "arg": {
+      "block": "center",
+      "inline": "nearest"
+    }
+  },
+  {
+    "time": "2026-10-14T17:23:34.670Z",
+    "run": "v5-regression",
+    "type": "scrollIntoView",
+    "target": "تشغيل",
+    "arg": {
+      "block": "center",
+      "inline": "nearest"
+    }
+  },
+  {
+    "time": "2026-10-14T17:23:34.675Z",
+    "run": "v5-regression",
+    "type": "speech-cancel"
+  },
+  {
+    "time": "2026-10-14T17:23:34.675Z",
+    "run": "v5-regression",
+    "type": "scrollIntoView",
+    "target": "قراءة عربية وتدفّق المحتوى",
+    "arg": {
+      "block": "center",
+      "behavior": "auto"
+    }
+  },
+  {
+    "time": "2026-10-14T17:23:34.676Z",
+    "run": "v5-regression",
+    "type": "speech-speak",
+    "text": "قراءة عربية وتدفّق المحتوى",
+    "lang": "ar-001",
+    "rate": 1
+  },
+  {
+    "time": "2026-10-14T17:23:34.686Z",
+    "run": "v5-regression",
+    "type": "utterance-start",
+    "text": "قراءة عربية وتدفّق المحتوى"
+  },
+  {
+    "time": "2026-10-14T17:23:34.818Z",
+    "run": "v5-regression",
+    "type": "scrollIntoView",
+    "target": "إعادة الضبط",
+    "arg": {
+      "block": "center",
+      "inline": "nearest"
+    }
+  },
+  {
+    "time": "2026-10-14T17:23:34.821Z",
+    "run": "v5-regression",
+    "type": "speech-cancel"
+  },
+  {
+    "time": "2026-10-14T17:23:34.822Z",
+    "run": "v5-regression",
+    "type": "speech-cancel"
+  },
+  {
+    "time": "2026-10-14T17:23:34.834Z",
+    "run": "v5-regression",
+    "type": "utterance-error",
+    "error": "interrupted",
+    "text": "قراءة عربية وتدفّق المحتوى"
+  },
+  {
+    "time": "2026-10-14T17:25:48.269Z",
+    "run": "v5-regression",
+    "type": "scrollIntoView",
+    "target": "إعادة الضبط",
+    "arg": {
+      "block": "center",
+      "inline": "nearest"
+    }
+  },
+  {
+    "time": "2026-10-14T17:25:48.286Z",
+    "run": "v5-regression",
+    "type": "speech-cancel"
+  },
+  {
+    "time": "2026-10-14T17:25:48.286Z",
+    "run": "v5-regression",
+    "type": "speech-cancel"
+  },
+  {
+    "time": "2026-10-14T17:25:48.308Z",
+    "run": "v5-regression",
+    "type": "scrollIntoView",
+    "target": "تشغيل",
+    "arg": {
+      "block": "center",
+      "inline": "nearest"
+    }
+  },
+  {
+    "time": "2026-10-14T17:25:48.318Z",
+    "run": "v5-regression",
+    "type": "speech-cancel"
+  },
+  {
+    "time": "2026-10-14T17:25:48.319Z",
+    "run": "v5-regression",
+    "type": "scrollIntoView",
+    "target": "قراءة عربية وتدفّق المحتوى",
+    "arg": {
+      "block": "center",
+      "behavior": "smooth"
+    }
+  },
+  {
+    "time": "2026-10-14T17:25:48.320Z",
+    "run": "v5-regression",
+    "type": "speech-speak",
+    "text": "قراءة عربية وتدفّق المحتوى",
+    "lang": "ar-001",
+    "rate": 1
+  },
+  {
+    "time": "2026-10-14T17:25:48.347Z",
+    "run": "v5-regression",
+    "type": "utterance-start",
+    "text": "قراءة عربية وتدفّق المحتوى"
+  },
+  {
+    "time": "2026-10-14T17:25:48.925Z",
+    "run": "v5-regression",
+    "type": "scrollIntoView",
+    "target": "إيقاف مؤقت",
+    "arg": {
+      "block": "center",
+      "inline": "nearest"
+    }
+  },
+  {
+    "time": "2026-10-14T17:25:48.930Z",
+    "run": "v5-regression",
+    "type": "speech-pause"
+  },
+  {
+    "time": "2026-10-14T17:25:48.936Z",
+    "run": "v5-regression",
+    "type": "utterance-pause",
+    "text": "قراءة عربية وتدفّق المحتوى"
+  },
+  {
+    "time": "2026-10-14T17:25:49.084Z",
+    "run": "v5-regression",
+    "type": "scrollIntoView",
+    "target": "متابعة",
+    "arg": {
+      "block": "center",
+      "inline": "nearest"
+    }
+  },
+  {
+    "time": "2026-10-14T17:25:49.087Z",
+    "run": "v5-regression",
+    "type": "speech-resume"
+  },
+  {
+    "time": "2026-10-14T17:25:49.097Z",
+    "run": "v5-regression",
+    "type": "utterance-resume",
+    "text": "قراءة عربية وتدفّق المحتوى"
+  },
+  {
+    "time": "2026-10-14T17:25:49.339Z",
+    "run": "v5-regression",
+    "type": "scrollIntoView",
+    "target": "إيقاف",
+    "arg": {
+      "block": "center",
+      "inline": "nearest"
+    }
+  },
+  {
+    "time": "2026-10-14T17:25:49.343Z",
+    "run": "v5-regression",
+    "type": "speech-cancel"
+  },
+  {
+    "time": "2026-10-14T17:25:49.355Z",
+    "run": "v5-regression",
+    "type": "utterance-error",
+    "error": "interrupted",
+    "text": "قراءة عربية وتدفّق المحتوى"
+  },
+  {
+    "time": "2026-10-14T17:25:49.499Z",
+    "run": "v5-regression",
+    "type": "scrollIntoView",
+    "target": "إعادة الضبط",
+    "arg": {
+      "block": "center",
+      "inline": "nearest"
+    }
+  },
+  {
+    "time": "2026-10-14T17:25:49.502Z",
+    "run": "v5-regression",
+    "type": "speech-cancel"
+  },
+  {
+    "time": "2026-10-14T17:25:49.503Z",
+    "run": "v5-regression",
+    "type": "speech-cancel"
+  },
+  {
+    "time": "2026-10-14T17:28:29.632Z",
+    "run": "v5-regression",
+    "type": "scrollIntoView",
+    "target": "أدوات سهولة الوصول",
+    "arg": {
+      "block": "center",
+      "inline": "nearest"
+    }
+  },
+  {
+    "time": "2026-10-14T17:28:29.752Z",
+    "run": "v5-regression",
+    "type": "scrollIntoView",
+    "target": "إعادة الضبط",
+    "arg": {
+      "block": "center",
+      "inline": "nearest"
+    }
+  },
+  {
+    "time": "2026-10-14T17:28:29.758Z",
+    "run": "v5-regression",
+    "type": "speech-cancel"
+  },
+  {
+    "time": "2026-10-14T17:28:29.758Z",
+    "run": "v5-regression",
+    "type": "speech-cancel"
+  },
+  {
+    "time": "2026-10-14T17:28:30.348Z",
+    "run": "v5-regression",
+    "type": "scrollIntoView",
+    "target": "تباين عالٍ",
+    "arg": {
+      "block": "center",
+      "inline": "nearest"
+    }
+  },
+  {
+    "time": "2026-10-14T17:28:30.860Z",
+    "run": "v5-regression",
+    "type": "scrollIntoView",
+    "target": "الوضع الداكن",
+    "arg": {
+      "block": "center",
+      "inline": "nearest"
+    }
+  },
+  {
+    "time": "2026-10-14T17:28:31.308Z",
+    "run": "v5-regression",
+    "type": "scrollIntoView",
+    "target": "إعادة الضبط",
+    "arg": {
+      "block": "center",
+      "inline": "nearest"
+    }
+  },
+  {
+    "time": "2026-10-14T17:28:31.311Z",
+    "run": "v5-regression",
+    "type": "speech-cancel"
+  },
+  {
+    "time": "2026-10-14T17:28:31.312Z",
+    "run": "v5-regression",
+    "type": "speech-cancel"
+  },
+  {
+    "time": "2026-10-14T17:28:31.659Z",
+    "run": "v5-full-tokens",
+    "type": "scrollIntoView",
+    "target": "أدوات سهولة الوصول",
+    "arg": {
+      "block": "center",
+      "inline": "nearest"
+    }
+  },
+  {
+    "time": "2026-10-14T17:28:32.068Z",
+    "run": "v5-full-tokens",
+    "type": "scrollIntoView",
+    "target": "تباين عالٍ",
+    "arg": {
+      "block": "center",
+      "inline": "nearest"
+    }
+  },
+  {
+    "time": "2026-10-14T17:28:32.558Z",
+    "run": "v5-full-tokens",
+    "type": "scrollIntoView",
+    "target": "الوضع الداكن",
+    "arg": {
+      "block": "center",
+      "inline": "nearest"
+    }
+  },
+  {
+    "time": "2026-10-14T17:28:33.050Z",
+    "run": "v5-full-tokens",
+    "type": "scrollIntoView",
+    "target": "إعادة الضبط",
+    "arg": {
+      "block": "center",
+      "inline": "nearest"
+    }
+  },
+  {
+    "time": "2026-10-14T17:28:33.054Z",
+    "run": "v5-full-tokens",
+    "type": "speech-cancel"
+  },
+  {
+    "time": "2026-10-14T17:28:33.054Z",
+    "run": "v5-full-tokens",
+    "type": "speech-cancel"
+  },
+  {
+    "time": "2026-10-14T17:28:33.079Z",
+    "run": "v5-full-tokens",
+    "type": "scrollIntoView",
+    "target": "تشغيل",
+    "arg": {
+      "block": "center",
+      "inline": "nearest"
+    }
+  },
+  {
+    "time": "2026-10-14T17:28:33.083Z",
+    "run": "v5-full-tokens",
+    "type": "speech-cancel"
+  },
+  {
+    "time": "2026-10-14T17:28:33.084Z",
+    "run": "v5-full-tokens",
+    "type": "scrollIntoView",
+    "target": "قراءة عربية وتدفّق المحتوى",
+    "arg": {
+      "block": "center",
+      "behavior": "smooth"
+    }
+  },
+  {
+    "time": "2026-10-14T17:28:33.084Z",
+    "run": "v5-full-tokens",
+    "type": "speech-speak",
+    "text": "قراءة عربية وتدفّق المحتوى",
+    "lang": "ar-001",
+    "rate": 1
+  },
+  {
+    "time": "2026-10-14T17:28:33.101Z",
+    "run": "v5-full-tokens",
+    "type": "utterance-start",
+    "text": "قراءة عربية وتدفّق المحتوى"
+  },
+  {
+    "time": "2026-10-14T17:28:33.109Z",
+    "run": "v5-full-tokens",
+    "type": "scrollIntoView",
+    "target": "إيقاف",
+    "arg": {
+      "block": "center",
+      "inline": "nearest"
+    }
+  },
+  {
+    "time": "2026-10-14T17:28:33.115Z",
+    "run": "v5-full-tokens",
+    "type": "speech-cancel"
+  },
+  {
+    "time": "2026-10-14T17:28:33.130Z",
+    "run": "v5-full-tokens",
+    "type": "utterance-error",
+    "error": "interrupted",
+    "text": "قراءة عربية وتدفّق المحتوى"
+  },
+  {
+    "time": "2026-10-14T17:31:19.314Z",
+    "run": "v5-full-tokens",
+    "type": "scrollIntoView",
+    "target": "أدوات سهولة الوصول",
+    "arg": {
+      "block": "center",
+      "inline": "nearest"
+    }
+  }
+]
